@@ -1,0 +1,10 @@
+{
+    "id": "Guitarist",
+    "name": "Guitarist",
+    "url": "https://sugar-bytes.de/guitarist",
+    "docs": "",
+    "developer": "sugarbytes",
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["synth", "guitar"]
+}

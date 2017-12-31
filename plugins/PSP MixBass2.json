@@ -1,0 +1,11 @@
+{
+    "id": "PSP MixBass2",
+    "name": "MixBass2",
+    "url": "http://www.pspaudioware.com/plugins/tools_and_meters/psp_mixsync2/",
+    "docs": "",
+    "developer": "psp",
+    "suites": ["PSP MixPack2"],
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["compressor", "bass"]
+}

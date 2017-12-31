@@ -1,0 +1,11 @@
+{
+    "id": "PSP MicroWarmer",
+    "name": "MicroWarmer",
+    "url": "http://www.pspaudioware.com/plugins/dynamic_processors/psp_vintagewarmer2/",
+    "docs": "",
+    "developer": "psp",
+    "parent": "PSP VintageWarmer2",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["compressor", "limiter"]
+}

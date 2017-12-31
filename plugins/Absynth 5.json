@@ -1,0 +1,10 @@
+{
+    "id": "Absynth 5",
+    "name": "Absynth 5",
+    "url": "https://www.native-instruments.com/en/products/komplete/synths/absynth-5/",
+    "docs": "",
+    "developer": "ni",
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["synth"]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "Rough Rider Pro",
+    "name": "Rough Rider Pro",
+    "url": "https://www.audiodamage.com",
+    "docs": "",
+    "developer": "audiodamage",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["compressor"]
+}

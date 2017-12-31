@@ -1,0 +1,10 @@
+{
+    "id": "Flesh",
+    "name": "Flesh",
+    "url": "",
+    "docs": "",
+    "developer": "ni",
+    "sources": ["reaktor"],
+    "type": ["instrument"],
+    "tags": ["synth"]
+}

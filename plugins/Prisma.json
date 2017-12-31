@@ -1,0 +1,10 @@
+{
+    "id": "Prisma",
+    "name": "Prisma",
+    "url": "https://www.robpapen.com/prisma.html",
+    "docs": "",
+    "developer": "robpapen",
+    "types": ["tool"],
+    "sources": ["vst2"],
+    "tags": ["plugin host", "browser"]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "BC Flanger 3",
+    "name": "Flanger 3",
+    "url": "https://www.bluecataudio.com/Products/Product_Flanger/",
+    "docs": "",
+    "developer": "bluecat",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["flanger"]
+}

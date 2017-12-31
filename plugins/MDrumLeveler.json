@@ -1,0 +1,10 @@
+{
+    "id": "MDrumLeveler",
+    "name": "MDrumLeveler",
+    "url": "https://www.meldaproduction.com/MDrumLeveler",
+    "docs": "",
+    "developer": "meldaproduction",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["multi-effect", "drums"]
+}

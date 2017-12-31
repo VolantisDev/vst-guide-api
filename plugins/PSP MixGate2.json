@@ -1,0 +1,11 @@
+{
+    "id": "PSP MixGate2",
+    "name": "MixGate2",
+    "url": "http://www.pspaudioware.com/plugins/tools_and_meters/psp_mixsync2/",
+    "docs": "",
+    "developer": "psp",
+    "suites": ["PSP MixPack2"],
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["gate"]
+}

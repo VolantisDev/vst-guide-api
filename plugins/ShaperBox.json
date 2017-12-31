@@ -1,0 +1,10 @@
+{
+    "id": "ShaperBox",
+    "name": "ShaperBox",
+    "url": "http://www.cableguys.com/products.html",
+    "docs": "",
+    "developer": "cableguys",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["multi-effect", "filter", "pan", "volume", "stereo"]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "Microtonic",
+    "name": "Microtonic",
+    "url": "https://soniccharge.com/microtonic",
+    "docs": "",
+    "developer": "soniccharge",
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["drums", "percussion", "drum machine"]
+}

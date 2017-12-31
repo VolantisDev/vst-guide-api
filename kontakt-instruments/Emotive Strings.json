@@ -1,0 +1,10 @@
+{
+    "id": "Emotive Strings",
+    "name": "Emotive Strings",
+    "url": "",
+    "docs": "",
+    "developer": "ni",
+    "suites": ["Emotive Strings", "Komplete 10", "Komplete 11"],
+    "sources": ["kontakt-instrument"],
+    "tags": ["strings"]
+}

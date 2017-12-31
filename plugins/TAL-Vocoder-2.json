@@ -1,0 +1,10 @@
+{
+    "id": "TAL-Vocoder-2",
+    "name": "TAL-Vocoder",
+    "url": "https://tal-software.com/products/tal-vocoder",
+    "docs": "",
+    "developer": "tal",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["vocoder"]
+}

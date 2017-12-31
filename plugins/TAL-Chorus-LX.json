@@ -1,0 +1,10 @@
+{
+    "id": "TAL-Chorus-LX",
+    "name": "TAL-Chorus-LX",
+    "url": "https://tal-software.com/products/tal-chorus-lx",
+    "docs": "",
+    "developer": "tal",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["chorus"]
+}

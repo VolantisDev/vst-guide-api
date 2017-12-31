@@ -1,0 +1,11 @@
+{
+    "id": "Wurlitzer V",
+    "name": "Wurlitzer V",
+    "url": "https://www.arturia.com/products/analog-classics/wurli-v",
+    "docs": "",
+    "developer": "arturia",
+    "types": ["instrument"],
+    "sources": ["vst2", "vst3"],
+    "suites": ["V Collection 3", "V Collection 4", "V Collection 5", "V Collection 6"],
+    "tags": ["synth"]
+}

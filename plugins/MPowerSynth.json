@@ -1,0 +1,10 @@
+{
+    "id": "MPowerSynth",
+    "name": "MPowerSynth",
+    "url": "https://www.meldaproduction.com/MPowerSynth",
+    "docs": "",
+    "developer": "meldaproduction",
+    "types": ["instrument"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["synth"]
+}

@@ -1,0 +1,11 @@
+{
+    "id": "SynthMaster2FX",
+    "name": "SynthMaster 2 FX",
+    "url": "https://www.kv331audio.com/synthmaster.aspx",
+    "docs": "",
+    "developer": "kv331",
+    "parent": "SynthMaster2",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["multi-effect"]
+}

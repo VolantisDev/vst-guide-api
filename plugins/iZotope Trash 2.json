@@ -1,0 +1,10 @@
+{
+    "id": "iZotope Trash 2",
+    "name": "Trash 2",
+    "url": "https://www.izotope.com/en/products/create-and-design/trash.html",
+    "docs": "",
+    "developer": "izotope",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["distortion"]
+}

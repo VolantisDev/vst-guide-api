@@ -1,0 +1,10 @@
+{
+    "id": "Basic",
+    "name": "Basic",
+    "url": "https://www.audiodamage.com/products/ad033-basic",
+    "docs": "",
+    "developer": "audiodamage",
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["synth"]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "Polygon",
+    "name": "Polygon",
+    "url": "https://glitchmachines.com/products/polygon/",
+    "docs": "",
+    "developer": "glitchmachines",
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["sampler"]
+}

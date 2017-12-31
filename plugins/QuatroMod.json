@@ -1,0 +1,10 @@
+{
+    "id": "QuatroMod",
+    "name": "QuatroMod",
+    "url": "https://www.audiodamage.com/products/ad040-quatromod",
+    "docs": "",
+    "developer": "audiodamage",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["multi-effect", "flanger", "chorus", "frequency shifter"]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "MMultiAnalyzer",
+    "name": "MMultiAnalyzer",
+    "url": "https://www.meldaproduction.com/MMultiAnalyzer",
+    "docs": "",
+    "developer": "meldaproduction",
+    "types": ["tool"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["analysis", "multi-band"]
+}

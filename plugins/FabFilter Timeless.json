@@ -1,0 +1,10 @@
+{
+    "id": "FabFilter Timeless",
+    "name": "Timeless",
+    "url": "https://www.fabfilter.com/products/timeless-2-stereo-tape-delay-plug-in",
+    "docs": "",
+    "developer": "fabfilter",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["delay"]
+}

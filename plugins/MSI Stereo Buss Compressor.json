@@ -1,0 +1,11 @@
+{
+    "id": "MSI Stereo Buss Compressor",
+    "name": "Stereo Buss Compressor",
+    "url": "http://www.pluginboutique.com/product/8-Compressor/878-Stereo-Buss-Compressor",
+    "docs": "",
+    "developer": "msg",
+    "suites": ["Ultimate Mastering Bundle"],
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["compressor"]
+}

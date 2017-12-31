@@ -1,0 +1,11 @@
+{
+    "id": "PSP StereoController",
+    "name": "StereoController",
+    "url": "http://www.pspaudioware.com/plugins/tools_and_meters/psp_stereocontroller/",
+    "docs": "",
+    "developer": "psp",
+    "suites": ["PSP StereoPack"],
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["stereo"]
+}

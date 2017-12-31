@@ -1,0 +1,10 @@
+{
+    "id": "WOW2",
+    "name": "WOW2",
+    "url": "https://sugar-bytes.de/wow2",
+    "docs": "",
+    "developer": "sugarbytes",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["multi-effect", "filter"]
+}

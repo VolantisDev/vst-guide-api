@@ -1,0 +1,10 @@
+{
+    "id": "kHz Transient Shaper",
+    "name": "Transient Shaper",
+    "url": "https://kilohearts.com/products/transient_shaper",
+    "docs": "",
+    "developer": "kilohearts",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["transient"]
+}

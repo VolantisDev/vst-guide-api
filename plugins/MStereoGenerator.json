@@ -1,0 +1,10 @@
+{
+    "id": "MStereoGenerator",
+    "name": "MStereoGenerator",
+    "url": "https://www.meldaproduction.com/MStereoGenerator",
+    "docs": "",
+    "developer": "meldaproduction",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["stereo"]
+}

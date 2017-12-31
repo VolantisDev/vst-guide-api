@@ -1,0 +1,10 @@
+{
+    "id": "Symptohm",
+    "name": "Symptohm",
+    "url": "https://www.ohmforce.com/ViewProduct.do?p=Symptohm",
+    "docs": "",
+    "developer": "ohmforce",
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["synth"]
+}

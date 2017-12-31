@@ -1,0 +1,10 @@
+{
+    "id": "TAL-NoiseMaker",
+    "name": "TAL-NoiseMaker",
+    "url": "https://tal-software.com/products/tal-noisemaker",
+    "docs": "",
+    "developer": "tal",
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["synth"]
+}

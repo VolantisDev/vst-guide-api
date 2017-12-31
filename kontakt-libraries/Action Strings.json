@@ -1,0 +1,9 @@
+{
+    "id": "Action Strings",
+    "name": "Action Strings",
+    "url": "",
+    "docs": "",
+    "developer": "ni",
+    "sources": ["kontakt-library"],
+    "tags": ["strings"]
+}

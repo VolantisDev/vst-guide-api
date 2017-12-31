@@ -1,0 +1,10 @@
+{
+    "id": "OrchestralCompanionStrings",
+    "name": "Orchestral Companion - Strings",
+    "url": "http://sonivoxmi.com/products/details/orchestral-companion-strings",
+    "docs": "",
+    "developer": "sonivox",
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["sampler"]
+}

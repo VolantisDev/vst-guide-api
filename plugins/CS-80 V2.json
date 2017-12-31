@@ -1,0 +1,11 @@
+{
+    "id": "CS-80 V2",
+    "name": "CS-80 V2",
+    "url": "https://www.arturia.com/products/analog-classics/cs-80v",
+    "docs": "",
+    "developer": "arturia",
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "suites": ["V Collection 3", "V Collection 4", "V Collection 5", "V Collection 6"],
+    "tags": ["synth"]
+}

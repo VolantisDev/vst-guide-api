@@ -1,0 +1,11 @@
+{
+    "id": "MDynamicsMBLarge",
+    "name": "MDynamicsMBLarge",
+    "url": "https://www.meldaproduction.com/MDynamicsMB",
+    "docs": "",
+    "developer": "meldaproduction",
+    "parent": "MDynamicsMB",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["dynamics", "multi-band"]
+}

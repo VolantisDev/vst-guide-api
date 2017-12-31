@@ -1,0 +1,10 @@
+{
+    "id": "MChannelMatrix",
+    "name": "MChannelMatrix",
+    "url": "https://www.meldaproduction.com/MChannelMatrix",
+    "docs": "",
+    "developer": "meldaproduction",
+    "types": ["tool"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["channel matrix"]
+}

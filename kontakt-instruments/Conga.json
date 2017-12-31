@@ -1,0 +1,10 @@
+{
+    "id": "Conga",
+    "name": "Cuba - Conga",
+    "url": "",
+    "docs": "",
+    "developer": "ni",
+    "suites": ["Cuba", "Komplete 10", "Komplete 11"],
+    "sources": ["kontakt-instrument"],
+    "tags": ["world", "percussion"]
+}

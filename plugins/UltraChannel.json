@@ -1,0 +1,10 @@
+{
+    "id": "UltraChannel",
+    "name": "UltraChannel",
+    "url": "https://www.eventideaudio.com/products/plugins/pitch-delay/ultrachannel",
+    "docs": "",
+    "developer": "eventide",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["multi-effect", "channel strip"]
+}

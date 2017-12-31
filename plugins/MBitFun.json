@@ -1,0 +1,10 @@
+{
+    "id": "MBitFun",
+    "name": "MBitFun",
+    "url": "https://www.meldaproduction.com/MBitFun",
+    "docs": "",
+    "developer": "meldaproduction",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["distortion", "bit-crushing"]
+}

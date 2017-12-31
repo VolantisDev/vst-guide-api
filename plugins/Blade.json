@@ -1,0 +1,11 @@
+{
+    "id": "Blade",
+    "name": "Blade",
+    "url": "https://www.robpapen.com/blade.html",
+    "docs": "",
+    "developer": "robpapen",
+    "suites": ["eXplorer4"],
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["synth"]
+}

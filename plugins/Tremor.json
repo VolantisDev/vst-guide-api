@@ -1,0 +1,10 @@
+{
+    "id": "Tremor",
+    "name": "Tremor",
+    "url": "https://fxpansion.com/products/tremor/",
+    "docs": "",
+    "developer": "fxpansion",
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["drums", "percussion"]
+}

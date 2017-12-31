@@ -1,0 +1,10 @@
+{
+    "id": "SPL Free Ranger",
+    "name": "Free Ranger",
+    "url": "https://www.plugin-alliance.com/en/products/spl_free_ranger.html",
+    "docs": "",
+    "developer": "spl",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["equalizer"]
+}

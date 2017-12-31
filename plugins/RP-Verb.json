@@ -1,0 +1,11 @@
+{
+    "id": "RP-Verb",
+    "name": "RP-VERB",
+    "url": "https://www.robpapen.com/rp-verb2.html",
+    "docs": "",
+    "developer": "robpapen",
+    "suites": ["eXplorer4"],
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["reverb"]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "Z3TA+ 2",
+    "name": "Z3TA+ 2",
+    "url": "https://www.cakewalk.com/products/z3ta/",
+    "docs": "",
+    "developer": "cakewalk",
+    "types": ["instrument"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["synth"]
+}

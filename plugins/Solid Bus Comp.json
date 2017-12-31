@@ -1,0 +1,10 @@
+{
+    "id": "Solid Bus Comp",
+    "name": "Solid Bus Comp",
+    "url": "https://www.native-instruments.com/en/products/komplete/effects/solid-bus-comp/",
+    "docs": "",
+    "developer": "ni",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["compressor"]
+}

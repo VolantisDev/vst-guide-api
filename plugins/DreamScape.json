@@ -1,0 +1,10 @@
+{
+    "id": "DreamScape",
+    "name": "Dreamscape",
+    "url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/589-Dreamscape",
+    "docs": "",
+    "developer": "msg",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["reverb"]
+}

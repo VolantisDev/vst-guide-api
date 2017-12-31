@@ -1,0 +1,10 @@
+{
+    "id": "Protoverb",
+    "name": "Protoverb",
+    "url": "https://www.u-he.com/cms/protoverb",
+    "docs": "",
+    "developer": "u-he",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["reverb"]
+}

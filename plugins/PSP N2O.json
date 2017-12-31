@@ -1,0 +1,10 @@
+{
+    "id": "PSP N2O",
+    "name": "N2O",
+    "url": "http://www.pspaudioware.com/plugins/multimode_effects/psp_n2o/",
+    "docs": "",
+    "developer": "psp",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["multi-effect", "filter", "equalizer", "delay", "reverb", "pitch shifter", "compressor", "bit-crusher", "distortion"]
+}

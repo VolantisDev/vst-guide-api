@@ -1,0 +1,9 @@
+{
+    "id": "Session Horns Pro",
+    "name": "Session Horns Pro",
+    "url": "",
+    "docs": "",
+    "developer": "ni",
+    "sources": ["kontakt-library"],
+    "tags": ["wind", "horns"]
+}

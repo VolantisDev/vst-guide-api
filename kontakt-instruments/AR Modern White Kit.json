@@ -1,0 +1,10 @@
+{
+    "id": "AR Modern White Kit",
+    "name": "Abbey Road Modern Drummer - White Kit",
+    "url": "",
+    "docs": "",
+    "developer": "ni",
+    "suites": ["Abbey Road Modern Drummer", "Komplete 10", "Komplete 11"],
+    "sources": ["kontakt-instrument"],
+    "tags": ["drums", "percussion"]
+}

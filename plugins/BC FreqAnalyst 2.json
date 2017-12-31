@@ -1,0 +1,10 @@
+{
+    "id": "BC FreqAnalyst 2",
+    "name": "FreqAnalyst 2",
+    "url": "https://www.bluecataudio.com/Products/Product_FreqAnalyst/",
+    "docs": "",
+    "developer": "bluecat",
+    "types": ["tool"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["analysis", "metering"]
+}

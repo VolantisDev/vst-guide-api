@@ -1,0 +1,10 @@
+{
+    "id": "TAL-Reverb-4",
+    "name": "TAL-Reverb-4",
+    "url": "https://tal-software.com/products/tal-reverb-4",
+    "docs": "",
+    "developer": "tal",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["reverb"]
+}

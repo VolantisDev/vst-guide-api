@@ -1,0 +1,10 @@
+{
+    "id": "Hybrid",
+    "name": "Hybrid 3",
+    "url": "http://www.airmusictech.com/product/hybrid-3",
+    "docs": "",
+    "developer": "airmusic",
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["synth"]
+}

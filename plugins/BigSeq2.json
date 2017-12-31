@@ -1,0 +1,10 @@
+{
+    "id": "BigSeq2",
+    "name": "BigSeq 2",
+    "url": "https://www.audiodamage.com/products/ad022-bigseq-2",
+    "docs": "",
+    "developer": "audiodamage",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["gate", "multi-effect", "filter", "distortion", "delay", "frequency shifter", "bit crusher"]
+}

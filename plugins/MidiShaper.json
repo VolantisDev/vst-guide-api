@@ -1,0 +1,10 @@
+{
+    "id": "MidiShaper",
+    "name": "MidiShaper",
+    "url": "http://www.cableguys.com/midishaper.html",
+    "docs": "",
+    "developer": "cableguys",
+    "types": ["tool"],
+    "sources": ["vst2"],
+    "tags": ["midi", "modulation"]
+}

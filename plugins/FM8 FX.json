@@ -1,0 +1,11 @@
+{
+    "id": "FM8 FX",
+    "name": "FM8 FX",
+    "url": "https://www.native-instruments.com/en/products/komplete/synths/fm8/",
+    "docs": "",
+    "developer": "ni",
+    "parent": "FM8",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["multi-effect"]
+}

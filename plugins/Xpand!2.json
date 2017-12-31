@@ -1,0 +1,10 @@
+{
+    "id": "Xpand!2",
+    "name": "Xpand!2",
+    "url": "http://www.airmusictech.com/product/xpand2",
+    "docs": "",
+    "developer": "airmusic",
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["synth", "sampler"]
+}

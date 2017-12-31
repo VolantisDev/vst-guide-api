@@ -1,0 +1,10 @@
+{
+    "id": "Tekturon",
+    "name": "Tekturon",
+    "url": "http://d16.pl/tekturon",
+    "docs": "",
+    "developer": "d16",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["delay"]
+}

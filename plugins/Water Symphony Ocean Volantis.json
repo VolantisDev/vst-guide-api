@@ -1,0 +1,10 @@
+{
+    "id": "Water Symphony Ocean Volantis",
+    "name": "Water Symphony: Ocean",
+    "url": "http://syncersoft.com/watersymphonyocean.htm",
+    "docs": "",
+    "developer": "syncersoft",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["sound generator"]
+}

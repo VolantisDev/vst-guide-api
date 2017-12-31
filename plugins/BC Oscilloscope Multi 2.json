@@ -1,0 +1,10 @@
+{
+    "id": "BC Oscilloscope Multi 2",
+    "name": "Oscilloscope Multi 2",
+    "url": "https://www.bluecataudio.com/Products/Product_OscilloscopeMulti/",
+    "docs": "",
+    "developer": "bluecat",
+    "types": ["tool"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["analysis", "metering", "multi-band"]
+}

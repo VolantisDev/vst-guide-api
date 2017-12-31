@@ -1,0 +1,10 @@
+{
+    "id": "MStereoScope",
+    "name": "MStereoScope",
+    "url": "https://www.meldaproduction.com/MStereoScope",
+    "docs": "",
+    "developer": "meldaproduction",
+    "types": ["tool"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["stereo", "analyzer"]
+}

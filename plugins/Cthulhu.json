@@ -1,0 +1,10 @@
+{
+    "id": "Cthulhu",
+    "name": "Cthulhu",
+    "url": "https://www.xferrecords.com/products/cthulhu",
+    "docs": "",
+    "developer": "xfer",
+    "types": ["tool"],
+    "sources": ["vst2"],
+    "tags": ["midi", "arpeggiator", "chords"]
+}

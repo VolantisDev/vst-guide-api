@@ -1,0 +1,10 @@
+{
+    "id": "Action Strikes",
+    "name": "Action Strikes",
+    "url": "",
+    "docs": "",
+    "developer": "ni",
+    "suites": ["Action Strikes", "Komplete 10", "Komplete 11"],
+    "sources": ["kontakt-instrument"],
+    "tags": ["percussion", "hits", "strikes"]
+}

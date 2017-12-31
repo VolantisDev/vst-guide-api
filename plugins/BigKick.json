@@ -1,0 +1,10 @@
+{
+    "id": "BigKick",
+    "name": "BigKick",
+    "url": "https://www.pluginboutique.com/product/1-Instruments/69-Generator/879-BigKick",
+    "docs": "",
+    "developer": "pluginboutique",
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["drums", "kick"]
+}

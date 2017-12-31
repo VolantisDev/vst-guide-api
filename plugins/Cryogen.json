@@ -1,0 +1,10 @@
+{
+    "id": "Cryogen",
+    "name": "Cryogen",
+    "url": "https://glitchmachines.com/products/cryogen/",
+    "docs": "",
+    "developer": "glitchmachines",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["multi-effect", "buffer"]
+}

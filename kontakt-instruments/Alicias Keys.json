@@ -1,0 +1,10 @@
+{
+    "id": "Alicias Keys",
+    "name": "Alicia's Keys",
+    "url": "",
+    "docs": "",
+    "developer": "ni",
+    "suites": ["Alicias Keys", "Komplete 10", "Komplete 11"],
+    "sources": ["kontakt-instrument"],
+    "tags": ["keys", "piano"]
+}

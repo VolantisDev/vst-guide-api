@@ -1,0 +1,10 @@
+{
+    "id": "kHz ONE",
+    "name": "ONE",
+    "url": "https://kilohearts.com/products/one",
+    "docs": "",
+    "developer": "kilohearts",
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["synth"]
+}

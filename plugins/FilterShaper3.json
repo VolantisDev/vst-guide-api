@@ -1,0 +1,11 @@
+{
+    "id": "FilterShaper3",
+    "name": "FilterShaper 3",
+    "url": "http://www.cableguys.com/filtershaper.html",
+    "docs": "",
+    "developer": "cableguys",
+    "parent": "ShaperBox",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["filter"]
+}

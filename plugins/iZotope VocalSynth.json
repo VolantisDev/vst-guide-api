@@ -1,0 +1,10 @@
+{
+    "id": "iZotope VocalSynth",
+    "name": "VocalSynth",
+    "url": "https://www.izotope.com/en/products/create-and-design/vocalsynth.html",
+    "docs": "",
+    "developer": "izotope",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["vocal", "multi-effect"]
+}

@@ -1,0 +1,11 @@
+{
+    "id": "Neutron",
+    "name": "Neutron 2",
+    "url": "https://www.izotope.com/en/products/mix/neutron.html",
+    "docs": "",
+    "developer": "izotope",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "suites": ["Neutron Advanced"],
+    "tags": ["multi-effect", "equalizer", "compressor", "exciter", "mastering"]
+}

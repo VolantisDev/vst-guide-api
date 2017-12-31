@@ -1,0 +1,10 @@
+{
+    "id": "VC 76",
+    "name": "VC 76",
+    "url": "https://www.native-instruments.com/en/products/komplete/effects/vc-76/",
+    "docs": "",
+    "developer": "ni",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["compressor"]
+}

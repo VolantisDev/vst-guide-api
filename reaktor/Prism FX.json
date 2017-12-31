@@ -1,0 +1,11 @@
+{
+    "id": "Prism FX",
+    "name": "Prism FX",
+    "url": "",
+    "docs": "",
+    "developer": "ni",
+    "parent": "Prism",
+    "sources": ["reaktor"],
+    "type": ["effect"],
+    "tags": ["multi-effect"]
+}

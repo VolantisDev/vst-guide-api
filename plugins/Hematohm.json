@@ -1,0 +1,10 @@
+{
+    "id": "Hematohm",
+    "name": "Hematohm",
+    "url": "https://www.ohmforce.com/ViewProduct.do?p=Hematohm",
+    "docs": "",
+    "developer": "ohmforce",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["multi-effect", "filter", "distortion"]
+}

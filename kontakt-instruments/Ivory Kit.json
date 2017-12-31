@@ -1,0 +1,10 @@
+{
+    "id": "Ivory Kit",
+    "name": "Abbey Road Vintage Drummer - Ivory Kit",
+    "url": "",
+    "docs": "",
+    "developer": "ni",
+    "suites": ["Abbey Road Vintage Drummer", "Komplete 10", "Komplete 11"],
+    "sources": ["kontakt-instrument"],
+    "tags": ["drums", "percussion"]
+}

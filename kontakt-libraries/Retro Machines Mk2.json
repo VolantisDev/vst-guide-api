@@ -1,0 +1,9 @@
+{
+    "id": "Retro Machines Mk2",
+    "name": "Retro Machines Mk2",
+    "url": "",
+    "docs": "",
+    "developer": "ni",
+    "sources": ["kontakt-library"],
+    "tags": ["synth"]
+}

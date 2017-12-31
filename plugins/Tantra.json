@@ -1,0 +1,10 @@
+{
+    "id": "Tantra",
+    "name": "Tantra",
+    "url": "http://dmitrysches.com/products/tantra",
+    "docs": "",
+    "developer": "dmitrysches",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["multi-effect", "filter", "distortion", "delay", "flanger", "lo-fi"]
+}

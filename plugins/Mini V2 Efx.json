@@ -1,0 +1,12 @@
+{
+    "id": "Mini V2 Efx",
+    "name": "Mini V2 Efx",
+    "url": "https://www.arturia.com/products/analog-classics/mini-v/overview",
+    "docs": "",
+    "developer": "arturia",
+    "parent": "Mini V2",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "suites": ["V Collection 3", "V Collection 4", "V Collection 5", "V Collection 6"],
+    "tags": ["multi-effect"]
+}

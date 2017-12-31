@@ -1,0 +1,10 @@
+{
+    "id": "BG Core Instruments",
+    "name": "Balinese Gamelan - Core Instruments",
+    "url": "",
+    "docs": "",
+    "developer": "ni",
+    "suites": ["Balinese Gamelan", "Komplete 10", "Komplete 11"],
+    "sources": ["kontakt-instrument"],
+    "tags": ["world"]
+}

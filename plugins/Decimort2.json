@@ -1,0 +1,10 @@
+{
+    "id": "Decimort2",
+    "name": "Decimort 2",
+    "url": "http://d16.pl/decimort2",
+    "docs": "",
+    "developer": "d16",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["distortion", "bit-crusher"]
+}

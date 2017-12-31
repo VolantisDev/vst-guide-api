@@ -1,0 +1,12 @@
+{
+    "id": "Modular V2 Efx",
+    "name": "Modular V2 Efx",
+    "url": "https://www.arturia.com/products/analog-classics/modular-v",
+    "docs": "",
+    "developer": "arturia",
+    "parent": "Modular V2",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "suites": ["V Collection 3", "V Collection 4", "V Collection 5", "V Collection 6"],
+    "tags": ["multi-effect"]
+}

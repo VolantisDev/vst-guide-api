@@ -1,0 +1,10 @@
+{
+    "id": "BC Chorus 4",
+    "name": "Chorus 4",
+    "url": "https://www.bluecataudio.com/Products/Product_Chorus/",
+    "docs": "",
+    "developer": "bluecat",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["chorus"]
+}

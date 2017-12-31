@@ -1,0 +1,11 @@
+{
+    "id": "RP-EQ",
+    "name": "RP-EQ",
+    "url": "https://www.robpapen.com/rp-eq.html",
+    "docs": "",
+    "developer": "robpapen",
+    "suites": ["eXplorer4"],
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["equalizer"]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "Curve2",
+    "name": "Curve 2",
+    "url": "http://www.cableguys.com/curve.html",
+    "docs": "",
+    "developer": "cableguys",
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["synth"]
+}

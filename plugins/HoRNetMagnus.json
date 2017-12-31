@@ -1,0 +1,10 @@
+{
+    "id": "HoRNetMagnus",
+    "name": "Magnus Mk2",
+    "url": "https://www.hornetplugins.com/plugins/hornet-magnus-mk2/",
+    "docs": "",
+    "developer": "hornet",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["limiter"]
+}

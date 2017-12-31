@@ -1,0 +1,10 @@
+{
+    "id": "Kick 2",
+    "name": "KICK 2",
+    "url": "https://www.sonicacademy.com/products/kick-2",
+    "docs": "",
+    "developer": "sonicacademy",
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["drums", "kick"]
+}

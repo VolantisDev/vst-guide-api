@@ -1,0 +1,10 @@
+{
+    "id": "MXXX",
+    "name": "MXXX",
+    "url": "https://www.meldaproduction.com/MXXX",
+    "docs": "",
+    "developer": "meldaproduction",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["multi-effect"]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "PanCake2",
+    "name": "PanCake 2",
+    "url": "http://www.cableguys.com/pancake.html",
+    "docs": "",
+    "developer": "cableguys",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["pan"]
+}

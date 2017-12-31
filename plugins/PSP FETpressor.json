@@ -1,0 +1,10 @@
+{
+    "id": "PSP FETpressor",
+    "name": "FETpressor",
+    "url": "http://www.pspaudioware.com/plugins/dynamic_processors/psp_fetpressor/",
+    "docs": "",
+    "developer": "psp",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["compressor"]
+}

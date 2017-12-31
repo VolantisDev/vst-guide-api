@@ -1,0 +1,10 @@
+{
+    "id": "SubDuer",
+    "name": "SubDuer",
+    "url": "http://www.majken.se/",
+    "docs": "",
+    "developer": "majken",
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["synth"]
+}

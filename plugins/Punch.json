@@ -1,0 +1,11 @@
+{
+    "id": "Punch",
+    "name": "Punch",
+    "url": "https://www.robpapen.com/punch.html",
+    "docs": "",
+    "developer": "robpapen",
+    "suites": ["eXplorer4"],
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["drums", "percussion"]
+}

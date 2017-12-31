@@ -1,0 +1,10 @@
+{
+    "id": "Ohmygod",
+    "name": "Ohmygod",
+    "url": "https://www.ohmforce.com/ViewProduct.do?p=Ohmygod",
+    "docs": "",
+    "developer": "ohmforce",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["filter", "distortion"]
+}

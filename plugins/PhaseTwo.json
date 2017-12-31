@@ -1,0 +1,10 @@
+{
+    "id": "PhaseTwo",
+    "name": "Phase Two",
+    "url": "https://www.audiodamage.com/products/ad008-phase-two",
+    "docs": "",
+    "developer": "audiodamage",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["phaser"]
+}

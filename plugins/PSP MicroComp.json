@@ -1,0 +1,10 @@
+{
+    "id": "PSP MicroComp",
+    "name": "MicroComp",
+    "url": "http://www.pspaudioware.com/plugins/dynamic_processors/psp_microcomp/",
+    "docs": "",
+    "developer": "psp",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["compressor"]
+}

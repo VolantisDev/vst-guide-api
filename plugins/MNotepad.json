@@ -1,0 +1,10 @@
+{
+    "id": "MNotepad",
+    "name": "MNotepad",
+    "url": "https://www.meldaproduction.com/MNotepad",
+    "docs": "",
+    "developer": "meldaproduction",
+    "types": ["tool"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["notepad"]
+}

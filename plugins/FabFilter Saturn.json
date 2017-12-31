@@ -1,0 +1,10 @@
+{
+    "id": "FabFilter Saturn",
+    "name": "Saturn",
+    "url": "https://www.fabfilter.com/products/saturn-multiband-distortion-saturation-plug-in",
+    "docs": "",
+    "developer": "fabfilter",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["saturation", "distortion"]
+}

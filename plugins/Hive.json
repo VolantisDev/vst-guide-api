@@ -1,0 +1,10 @@
+{
+    "id": "Hive",
+    "name": "Hive",
+    "url": "https://www.u-he.com/cms/hive",
+    "docs": "",
+    "developer": "u-he",
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["synth"]
+}

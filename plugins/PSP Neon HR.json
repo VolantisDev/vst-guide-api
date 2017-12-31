@@ -1,0 +1,10 @@
+{
+    "id": "PSP Neon HR",
+    "name": "Neon HR",
+    "url": "http://www.pspaudioware.com/plugins/equalizers/psp_neon_hr/",
+    "docs": "",
+    "developer": "psp",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["equalizer"]
+}

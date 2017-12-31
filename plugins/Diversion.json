@@ -1,0 +1,10 @@
+{
+    "id": "Diversion",
+    "name": "Diversion",
+    "url": "http://dmitrysches.com/products/diversion",
+    "docs": "",
+    "developer": "dmitrysches",
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["synth"]
+}

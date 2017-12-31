@@ -1,0 +1,10 @@
+{
+    "id": "Propane",
+    "name": "Propane",
+    "url": "https://www.pluginboutique.com/product/2-Effects/27-Stereo-Width/3121-Propane",
+    "docs": "",
+    "developer": "soundspot",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["stereo"]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "Santur",
+    "name": "India - Santur",
+    "url": "",
+    "docs": "",
+    "developer": "ni",
+    "suites": ["India", "Komplete 10", "Komplete 11"],
+    "sources": ["kontakt-instrument"],
+    "tags": ["world"]
+}

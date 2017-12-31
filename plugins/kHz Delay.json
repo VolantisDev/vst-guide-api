@@ -1,0 +1,10 @@
+{
+    "id": "kHz Delay",
+    "name": "Delay",
+    "url": "https://kilohearts.com/products/delay",
+    "docs": "",
+    "developer": "kilohearts",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["delay"]
+}

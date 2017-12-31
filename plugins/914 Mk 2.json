@@ -1,0 +1,10 @@
+{
+    "id": "914 Mk 2",
+    "name": "914 Mk 2",
+    "url": "https://www.audiodamage.com/products/ad041-914-mk-2-fixed-filter-bank",
+    "docs": "",
+    "developer": "audiodamage",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["filter"]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "TX16Wx",
+    "name": "TX16Wx",
+    "url": "http://www.tx16wx.com/",
+    "docs": "",
+    "developer": "cwitec",
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["sampler"]
+}

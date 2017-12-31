@@ -1,0 +1,10 @@
+{
+    "id": "kHz Tape Stop",
+    "name": "Tape Stop",
+    "url": "https://kilohearts.com/products/tape_stop",
+    "docs": "",
+    "developer": "kilohearts",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["tape-stop", "tape simulation"]
+}

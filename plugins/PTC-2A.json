@@ -1,0 +1,10 @@
+{
+    "id": "PTC-2A",
+    "name": "PTC-2A",
+    "url": "https://www.overtonedsp.co.uk/download/download_ptc_2a/",
+    "docs": "",
+    "developer": "overtone",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["equalizer"]
+}

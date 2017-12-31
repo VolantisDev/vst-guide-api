@@ -1,0 +1,10 @@
+{
+    "id": "NoteMapper",
+    "name": "NoteMapper",
+    "url": "http://www.codefn42.com/notemapper/index.html",
+    "docs": "",
+    "developer": "codefn42",
+    "types": ["tool"],
+    "sources": ["vst2"],
+    "tags": ["midi"]
+}

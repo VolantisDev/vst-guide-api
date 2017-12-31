@@ -1,0 +1,10 @@
+{
+    "id": "PSP SpringBox",
+    "name": "SpringBox",
+    "url": "http://www.pspaudioware.com/plugins/reverbs/psp_springbox/",
+    "docs": "",
+    "developer": "psp",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["reverb"]
+}

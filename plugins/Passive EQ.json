@@ -1,0 +1,10 @@
+{
+    "id": "Passive EQ",
+    "name": "Passive EQ",
+    "url": "https://www.native-instruments.com/en/products/komplete/effects/passive-eq/",
+    "docs": "",
+    "developer": "ni",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["equalizer"]
+}

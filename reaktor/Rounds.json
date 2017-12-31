@@ -1,0 +1,10 @@
+{
+    "id": "Rounds",
+    "name": "Rounds",
+    "url": "",
+    "docs": "",
+    "developer": "ni",
+    "sources": ["reaktor"],
+    "type": ["instrument"],
+    "tags": ["synth"]
+}

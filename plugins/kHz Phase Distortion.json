@@ -1,0 +1,10 @@
+{
+    "id": "kHz Phase Distortion",
+    "name": "Phase Distortion",
+    "url": "https://kilohearts.com/products/phase_distortion",
+    "docs": "",
+    "developer": "kilohearts",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["distortion"]
+}

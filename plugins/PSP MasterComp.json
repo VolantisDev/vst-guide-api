@@ -1,0 +1,10 @@
+{
+    "id": "PSP MasterComp",
+    "name": "MasterComp",
+    "url": "http://www.pspaudioware.com/plugins/dynamic_processors/psp_mastercomp/",
+    "docs": "",
+    "developer": "psp",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["compressor"]
+}

@@ -1,0 +1,9 @@
+{
+    "id": "Scarbee MM-Bass",
+    "name": "Scarbee MM-Bass",
+    "url": "",
+    "docs": "",
+    "developer": "ni",
+    "sources": ["kontakt-library"],
+    "tags": ["strings", "bass"]
+}

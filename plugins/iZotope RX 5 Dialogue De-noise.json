@@ -1,0 +1,12 @@
+{
+    "id": "iZotope RX 5 Dialogue De-noise",
+    "name": "RX 5 Dialogue De-noise",
+    "url": "https://www.izotope.com/en/products/repair-and-edit/rx/features/dialogue-isolate.html",
+    "docs": "",
+    "developer": "izotope",
+    "types": ["tool"],
+    "sources": ["vst2", "vst3"],
+    "parent": "iZotope RX 5",
+    "suites": ["RX 5 Advanced"],
+    "tags": ["de-noise", "vocal", "dialog"]
+}

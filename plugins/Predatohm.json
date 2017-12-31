@@ -1,0 +1,10 @@
+{
+    "id": "Predatohm",
+    "name": "Predatohm",
+    "url": "https://www.ohmforce.com/ViewProduct.do?p=Predatohm",
+    "docs": "",
+    "developer": "ohmforce",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["multi-effect", "distortion", "overdrive", "saturation"]
+}

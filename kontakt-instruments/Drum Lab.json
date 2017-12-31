@@ -1,0 +1,10 @@
+{
+    "id": "Drum Lab",
+    "name": "Drum Lab",
+    "url": "",
+    "docs": "",
+    "developer": "ni",
+    "suites": ["Drum Lab", "Komplete 10", "Komplete 11"],
+    "sources": ["kontakt-instrument"],
+    "tags": ["drums", "percussion"]
+}

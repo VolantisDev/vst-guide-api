@@ -1,0 +1,10 @@
+{
+    "id": "Synplant",
+    "name": "Synplant",
+    "url": "https://soniccharge.com/synplant",
+    "docs": "",
+    "developer": "soniccharge",
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["synth"]
+}

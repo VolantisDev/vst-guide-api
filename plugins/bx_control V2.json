@@ -1,0 +1,10 @@
+{
+    "id": "bx_control V2",
+    "name": "bx_control V2",
+    "url": "https://www.plugin-alliance.com/en/products/bx_control_v2.html",
+    "docs": "",
+    "developer": "brainworx",
+    "types": ["tool"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["monitoring", "mid-side"]
+}

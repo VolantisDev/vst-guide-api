@@ -1,0 +1,10 @@
+{
+    "id": "Ozone Imager",
+    "name": "Ozone Imager",
+    "url": "https://www.izotope.com/en/products/master-and-deliver/ozone/ozone-imager.html",
+    "docs": "",
+    "developer": "izotope",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["stereo"]
+}

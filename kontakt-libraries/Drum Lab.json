@@ -1,0 +1,9 @@
+{
+    "id": "Drum Lab",
+    "name": "Drum Lab",
+    "url": "",
+    "docs": "",
+    "developer": "ni",
+    "sources": ["kontakt-library"],
+    "tags": ["drums", "percussion"]
+}

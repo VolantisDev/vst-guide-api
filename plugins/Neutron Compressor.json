@@ -1,0 +1,12 @@
+{
+    "id": "Neutron Compressor",
+    "name": "Neutron Compressor",
+    "url": "https://www.izotope.com/en/products/mix/neutron/features-and-comparison/compressor.html",
+    "docs": "",
+    "developer": "izotope",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "parent": "iZNeutron",
+    "suites": ["Neutron Advanced"],
+    "tags": ["compressor"]
+}

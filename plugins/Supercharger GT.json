@@ -1,0 +1,10 @@
+{
+    "id": "Supercharger GT",
+    "name": "Supercharger GT",
+    "url": "https://www.native-instruments.com/en/products/komplete/effects/supercharger-gt/",
+    "docs": "",
+    "developer": "ni",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["compressor"]
+}

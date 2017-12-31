@@ -1,0 +1,11 @@
+{
+    "id": "ZRev",
+    "name": "ZRev",
+    "url": "https://www.u-he.com/cms/zebra",
+    "docs": "",
+    "developer": "u-he",
+    "parent": "Zebra2",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["multi-effect", "delay", "filter"]
+}

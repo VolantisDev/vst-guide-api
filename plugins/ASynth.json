@@ -1,0 +1,10 @@
+{
+    "id": "ASynth",
+    "name": "ASynth",
+    "url": "http://antti.smartelectronix.com/",
+    "docs": "",
+    "developer": "smartelectronix",
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["synth"]
+}

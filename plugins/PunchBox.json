@@ -1,0 +1,10 @@
+{
+    "id": "PunchBox",
+    "name": "PunchBox",
+    "url": "http://d16.pl/punchbox",
+    "docs": "",
+    "developer": "d16",
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["drums", "kick"]
+}

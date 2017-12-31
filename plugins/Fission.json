@@ -1,0 +1,10 @@
+{
+    "id": "Fission",
+    "name": "Fission",
+    "url": "https://www.eventideaudio.com/products/plugins/structural-effect/fission",
+    "docs": "",
+    "developer": "eventide",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["structural", "multi-effect"]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "PSP PianoVerb2",
+    "name": "PianoVerb2",
+    "url": "http://www.pspaudioware.com/plugins/reverbs/psp_pianoverb2/",
+    "docs": "",
+    "developer": "psp",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["reverb"]
+}

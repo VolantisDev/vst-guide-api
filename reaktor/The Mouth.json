@@ -1,0 +1,10 @@
+{
+    "id": "The Mouth",
+    "name": "The Mouth",
+    "url": "",
+    "docs": "",
+    "developer": "ni",
+    "sources": ["reaktor"],
+    "type": ["effect"],
+    "tags": ["multi-effect"]
+}

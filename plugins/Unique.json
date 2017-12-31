@@ -1,0 +1,10 @@
+{
+    "id": "Unique",
+    "name": "Unique",
+    "url": "https://sugar-bytes.de/unique",
+    "docs": "",
+    "developer": "sugarbytes",
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["synth"]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "kHz Trance Gate",
+    "name": "Trance Gate",
+    "url": "https://kilohearts.com/products/trance_gate",
+    "docs": "",
+    "developer": "kilohearts",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["gate", "trance gate"]
+}

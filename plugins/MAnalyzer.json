@@ -1,0 +1,10 @@
+{
+    "id": "MAnalyzer",
+    "name": "MAnalyzer",
+    "url": "https://www.meldaproduction.com/MAnalyzer",
+    "docs": "",
+    "developer": "meldaproduction",
+    "types": ["tool"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["analyzer"]
+}

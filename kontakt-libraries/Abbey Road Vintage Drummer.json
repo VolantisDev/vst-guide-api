@@ -1,0 +1,9 @@
+{
+    "id": "Abbey Road Vintage Drummer",
+    "name": "Abbey Road Vintage Drummer",
+    "url": "https://www.native-instruments.com/en/products/komplete/drums/abbey-road-vintage-drummer/",
+    "docs": "",
+    "developer": "ni",
+    "sources": ["kontakt-library"],
+    "tags": ["drums", "percussion"]
+}

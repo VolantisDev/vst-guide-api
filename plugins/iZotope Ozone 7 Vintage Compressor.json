@@ -1,0 +1,12 @@
+{
+    "id": "iZotope Ozone 7 Vintage Compressor",
+    "name": "Ozone 7 Vintage Compressor",
+    "url": "https://www.izotope.com/en/products/master-and-deliver/ozone/features-and-comparison/vintage-compressor.html",
+    "docs": "",
+    "developer": "izotope",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "parent": "iZotope Ozone 7",
+    "suites": ["Ozone 7 Advanced"],
+    "tags": ["compressor", "mastering"]
+}

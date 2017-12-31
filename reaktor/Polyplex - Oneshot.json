@@ -1,0 +1,10 @@
+{
+    "id": "Polyplex - Oneshot",
+    "name": "Polyplex - Oneshot",
+    "url": "",
+    "docs": "",
+    "developer": "ni",
+    "sources": ["reaktor"],
+    "type": ["instrument"],
+    "tags": ["drums", "oneshot"]
+}

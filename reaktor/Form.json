@@ -1,0 +1,10 @@
+{
+    "id": "Form",
+    "name": "Form",
+    "url": "",
+    "docs": "",
+    "developer": "ni",
+    "sources": ["reaktor"],
+    "type": ["instrument"],
+    "tags": ["synth"]
+}

@@ -1,0 +1,12 @@
+{
+    "id": "Neutron Transient Shaper",
+    "name": "Neutron Transient Shaper",
+    "url": "https://www.izotope.com/en/products/mix/neutron/features-and-comparison/transient-shaper.html",
+    "docs": "",
+    "developer": "izotope",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "parent": "iZNeutron",
+    "suites": ["Neutron Advanced"],
+    "tags": ["transient-shaper"]
+}

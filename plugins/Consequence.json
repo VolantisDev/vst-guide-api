@@ -1,0 +1,10 @@
+{
+    "id": "Consequence",
+    "name": "Consequence",
+    "url": "https://sugar-bytes.de/consequence",
+    "docs": "",
+    "developer": "sugarbytes",
+    "types": ["tool"],
+    "sources": ["vst2"],
+    "tags": ["midi", "arpeggiator", "sequencer"]
+}

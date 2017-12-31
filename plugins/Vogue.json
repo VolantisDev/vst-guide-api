@@ -1,0 +1,10 @@
+{
+    "id": "Vogue",
+    "name": "Vogue",
+    "url": "https://sugar-bytes.de/",
+    "docs": "",
+    "developer": "sugarbytes",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["multi-effect", "channel strip"]
+}

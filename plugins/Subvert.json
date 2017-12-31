@@ -1,0 +1,10 @@
+{
+    "id": "Subvert",
+    "name": "Subvert",
+    "url": "https://glitchmachines.com/products/subvert/",
+    "docs": "",
+    "developer": "glitchmachines",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["distortion"]
+}

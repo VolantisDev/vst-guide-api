@@ -1,0 +1,10 @@
+{
+    "id": "bx_solo",
+    "name": "bx_solo",
+    "url": "http://www.brainworx-music.de/en/plugins/bx_solo",
+    "docs": "",
+    "developer": "brainworx",
+    "types": ["tool"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["solo", "mid-side"]
+}

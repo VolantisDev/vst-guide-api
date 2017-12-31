@@ -1,0 +1,10 @@
+{
+    "id": "MTurboCompMB",
+    "name": "MTurboCompMB",
+    "url": "https://www.meldaproduction.com/MTurboCompMB",
+    "docs": "",
+    "developer": "meldaproduction",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["compressor", "multi-band"]
+}

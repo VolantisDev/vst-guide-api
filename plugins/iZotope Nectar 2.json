@@ -1,0 +1,11 @@
+{
+    "id": "iZotope Nectar 2",
+    "name": "Nectar 2",
+    "url": "https://www.izotope.com/en/products/mix/nectar.html",
+    "docs": "",
+    "developer": "izotope",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "suites": ["Nectar 2 Production Suite"],
+    "tags": ["multi-effect", "vocals"]
+}

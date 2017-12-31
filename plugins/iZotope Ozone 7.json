@@ -1,0 +1,11 @@
+{
+    "id": "iZotope Ozone 7",
+    "name": "Ozone 7",
+    "url": "https://www.izotope.com/en/products/master-and-deliver/ozone.html",
+    "docs": "",
+    "developer": "izotope",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "suites": ["Ozone 7 Advanced"],
+    "tags": ["multi-effect", "dynamic-eq", "dynamics", "equalizer", "exciter", "stereo", "limiter", "saturation"]
+}

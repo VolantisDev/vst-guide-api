@@ -1,0 +1,10 @@
+{
+    "id": "AR80s Black Kit",
+    "name": "Abbey Road 80s Drummer - Black Kit",
+    "url": "",
+    "docs": "",
+    "developer": "ni",
+    "suites": ["Abbey Road 80s Drummer", "Komplete 10", "Komplete 11"],
+    "sources": ["kontakt-instrument"],
+    "tags": ["drums", "percussion"]
+}

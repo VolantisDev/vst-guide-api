@@ -1,0 +1,10 @@
+{
+    "id": "Action Strings",
+    "name": "Action Strings",
+    "url": "",
+    "docs": "",
+    "developer": "ni",
+    "suites": ["Action Strings", "Komplete 10", "Komplete 11"],
+    "sources": ["kontakt-instrument"],
+    "tags": ["strings"]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "Cyclop",
+    "name": "Cyclop",
+    "url": "https://sugar-bytes.de/cyclop",
+    "docs": "",
+    "developer": "sugarbytes",
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["synth", "bass"]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "MAGC",
+    "name": "MAGC",
+    "url": "https://www.meldaproduction.com/MAGC",
+    "docs": "",
+    "developer": "meldaproduction",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["loudness", "gain"]
+}

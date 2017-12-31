@@ -1,0 +1,12 @@
+{
+    "id": "iZotope RX 5 De-click",
+    "name": "RX 5 De-click",
+    "url": "https://www.izotope.com/en/products/repair-and-edit/rx/features/mouth-de-click.html",
+    "docs": "",
+    "developer": "izotope",
+    "types": ["tool"],
+    "sources": ["vst2", "vst3"],
+    "parent": "iZotope RX 5",
+    "suites": ["RX 5 Advanced", "RX 5 Standard"],
+    "tags": ["de-click", "vocal"]
+}

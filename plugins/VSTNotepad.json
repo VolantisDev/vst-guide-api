@@ -1,0 +1,10 @@
+{
+    "id": "VSTNotepad",
+    "name": "VSTNotepad",
+    "url": "http://www.codefn42.com/vstnotepad/index.html",
+    "docs": "",
+    "developer": "codefn42",
+    "types": ["tool"],
+    "sources": ["vst2"],
+    "tags": ["notepad"]
+}

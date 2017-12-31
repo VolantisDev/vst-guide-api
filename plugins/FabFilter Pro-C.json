@@ -1,0 +1,10 @@
+{
+    "id": "FabFilter Pro-C",
+    "name": "Pro-C",
+    "url": "https://www.fabfilter.com/products/pro-c-2-compressor-plug-in",
+    "docs": "",
+    "developer": "fabfilter",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["compressor"]
+}

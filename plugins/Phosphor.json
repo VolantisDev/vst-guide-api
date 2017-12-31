@@ -1,0 +1,10 @@
+{
+    "id": "Phosphor",
+    "name": "Phosphor",
+    "url": "https://www.audiodamage.com/products/ad038-phosphor-2",
+    "docs": "",
+    "developer": "audiodamage",
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["synth"]
+}

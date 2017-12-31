@@ -1,0 +1,10 @@
+{
+    "id": "Ricochet",
+    "name": "Ricochet",
+    "url": "https://www.audiodamage.com/",
+    "docs": "",
+    "developer": "audiodamage",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["delay", "multi-tap delay"]
+}

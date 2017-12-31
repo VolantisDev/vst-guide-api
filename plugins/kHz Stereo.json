@@ -1,0 +1,10 @@
+{
+    "id": "kHz Stereo",
+    "name": "Stereo",
+    "url": "https://kilohearts.com/products/stereo",
+    "docs": "",
+    "developer": "kilohearts",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["stereo"]
+}

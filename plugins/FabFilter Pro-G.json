@@ -1,0 +1,10 @@
+{
+    "id": "FabFilter Pro-G",
+    "name": "Pro-G",
+    "url": "https://www.fabfilter.com/products/pro-g-gate-expander-plug-in",
+    "docs": "",
+    "developer": "fabfilter",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["gate", "expander"]
+}

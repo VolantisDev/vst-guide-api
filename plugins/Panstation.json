@@ -1,0 +1,10 @@
+{
+    "id": "Panstation",
+    "name": "Panstation",
+    "url": "https://www.audiodamage.com/products/ad028-panstation",
+    "docs": "",
+    "developer": "audiodamage",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["pan"]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "Polyplex - Snare",
+    "name": "Polyplex - Snare",
+    "url": "",
+    "docs": "",
+    "developer": "ni",
+    "sources": ["reaktor"],
+    "type": ["instrument"],
+    "tags": ["drums", "percussion"]
+}

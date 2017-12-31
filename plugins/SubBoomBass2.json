@@ -1,0 +1,11 @@
+{
+    "id": "SubBoomBass2",
+    "name": "SubBoomBass 2",
+    "url": "https://www.robpapen.com/subboombass-2.html",
+    "docs": "",
+    "developer": "robpapen",
+    "suites": ["eXplorer4"],
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["synth", "bass"]
+}

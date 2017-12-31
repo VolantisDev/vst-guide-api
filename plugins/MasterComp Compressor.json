@@ -1,0 +1,11 @@
+{
+    "id": "MasterComp Compressor",
+    "name": "Master Compressor",
+    "url": "http://www.pluginboutique.com/product/8-Compressor/231-Master-Compressor-",
+    "docs": "",
+    "developer": "msg",
+    "suites": ["Ultimate Mastering Bundle"],
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["compressor"]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "MLoudnessAnalyzer",
+    "name": "MLoudnessAnalyzer",
+    "url": "https://www.meldaproduction.com/MLoudnessAnalyzer",
+    "docs": "",
+    "developer": "meldaproduction",
+    "types": ["tool"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["analysis"]
+}

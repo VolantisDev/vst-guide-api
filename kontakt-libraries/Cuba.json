@@ -1,0 +1,9 @@
+{
+    "id": "Cuba",
+    "name": "Cuba",
+    "url": "",
+    "docs": "",
+    "developer": "ni",
+    "sources": ["kontakt-library"],
+    "tags": ["world"]
+}

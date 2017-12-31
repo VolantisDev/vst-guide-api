@@ -1,0 +1,10 @@
+{
+    "id": "kHz Chorus",
+    "name": "Chorus",
+    "url": "https://kilohearts.com/products/chorus",
+    "docs": "",
+    "developer": "kilohearts",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["chorus"]
+}

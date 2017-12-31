@@ -1,0 +1,10 @@
+{
+    "id": "Overtone",
+    "name": "Overtone",
+    "url": "https://www.pluginboutique.com/product/2-Effects/16-EQ/3186-Overtone",
+    "docs": "",
+    "developer": "soundspot",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["equalizer"]
+}

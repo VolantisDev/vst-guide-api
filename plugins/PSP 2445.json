@@ -1,0 +1,10 @@
+{
+    "id": "PSP 2445",
+    "name": "2445",
+    "url": "http://www.pspaudioware.com/plugins/reverbs/psp_2445/",
+    "docs": "",
+    "developer": "psp",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["reverb"]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "stochas",
+    "name": "Stochas",
+    "url": "https://www.audiovitamins.com/stochas/",
+    "docs": "",
+    "developer": "audiovitamins",
+    "types": ["tool"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["sequencer", "step-sequencer"]
+}

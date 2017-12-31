@@ -1,0 +1,10 @@
+{
+    "id": "India Ensemble",
+    "name": "India - Ensemble",
+    "url": "",
+    "docs": "",
+    "developer": "ni",
+    "suites": ["India", "Komplete 10", "Komplete 11"],
+    "sources": ["kontakt-instrument"],
+    "tags": ["world", "percussion", "ensemble"]
+}

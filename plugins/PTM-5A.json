@@ -1,0 +1,10 @@
+{
+    "id": "PTM-5A",
+    "name": "PTM-5A",
+    "url": "https://www.overtonedsp.co.uk/download/download_ptm_5a/",
+    "docs": "",
+    "developer": "overtone",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["equalizer"]
+}

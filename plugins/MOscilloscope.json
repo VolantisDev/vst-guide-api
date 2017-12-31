@@ -1,0 +1,10 @@
+{
+    "id": "MOscilloscope",
+    "name": "MOscilloscope",
+    "url": "https://www.meldaproduction.com/MOscilloscope",
+    "docs": "",
+    "developer": "meldaproduction",
+    "types": ["tool"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["analysis", "oscilloscope"]
+}

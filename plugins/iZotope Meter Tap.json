@@ -1,0 +1,12 @@
+{
+    "id": "iZotope Meter Tap",
+    "name": "Meter Tap",
+    "url": "https://www.izotope.com/en/products/mix/insight/features/#meter-taps",
+    "docs": "http://help.izotope.com/docs/ozone/pages/modules_meterbridge.htm",
+    "developer": "izotope",
+    "types": ["tool"],
+    "sources": ["vst2", "vst3"],
+    "parent": "iZInsight",
+    "suites": ["Ozone Advanced"],
+    "tags": ["multi-effect", "vocals"]
+}

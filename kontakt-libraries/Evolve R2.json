@@ -1,0 +1,9 @@
+{
+    "id": "Evolve R2",
+    "name": "Evolve R2",
+    "url": "",
+    "docs": "",
+    "developer": "ni",
+    "sources": ["kontakt-library"],
+    "tags": ["multi-instrument", "sound effects"]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "iZotope DDLY Dynamic Delay",
+    "name": "DDLY Dynamic Delay",
+    "url": "https://www.izotope.com/en/products/create-and-design/ddly-dynamic-delay.html",
+    "docs": "",
+    "developer": "izotope",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["delay"]
+}

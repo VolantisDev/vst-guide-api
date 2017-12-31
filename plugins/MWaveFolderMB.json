@@ -1,0 +1,10 @@
+{
+    "id": "MWaveFolderMB",
+    "name": "MWaveFolderMB",
+    "url": "https://www.meldaproduction.com/MWaveFolderMB",
+    "docs": "",
+    "developer": "meldaproduction",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["distortion", "multi-band"]
+}

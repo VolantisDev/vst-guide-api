@@ -1,0 +1,10 @@
+{
+    "id": "MHarmonizerMB",
+    "name": "MHarmonizerMB",
+    "url": "https://www.meldaproduction.com/MHarmonizerMB",
+    "docs": "",
+    "developer": "meldaproduction",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["harmonizer", "multi-band"]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "Ohmicide",
+    "name": "Ohmicide",
+    "url": "https://www.ohmforce.com/ViewProduct.do?p=Ohmicide",
+    "docs": "",
+    "developer": "ohmforce",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["distortion"]
+}

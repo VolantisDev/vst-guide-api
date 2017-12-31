@@ -1,0 +1,10 @@
+{
+    "id": "AR70s Tight Kit",
+    "name": "Abbey Road 70s Drummer - Tight Kit",
+    "url": "",
+    "docs": "",
+    "developer": "ni",
+    "suites": ["Abbey Road 70s Drummer", "Komplete 10", "Komplete 11"],
+    "sources": ["kontakt-instrument"],
+    "tags": ["drums", "percussion"]
+}

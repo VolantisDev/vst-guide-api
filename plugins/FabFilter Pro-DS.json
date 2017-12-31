@@ -1,0 +1,10 @@
+{
+    "id": "FabFilter Pro-DS",
+    "name": "Pro-DS",
+    "url": "https://www.fabfilter.com/products/pro-ds-de-esser-plug-in",
+    "docs": "",
+    "developer": "fabfilter",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["de-esser"]
+}

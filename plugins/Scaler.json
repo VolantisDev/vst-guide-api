@@ -1,0 +1,10 @@
+{
+    "id": "Scaler",
+    "name": "Scaler",
+    "url": "https://www.pluginboutique.com/product/3-Studio-Tools/72-Utility/3933-Scaler",
+    "docs": "",
+    "developer": "pluginboutique",
+    "types": ["tool"],
+    "sources": ["vst2"],
+    "tags": ["midi"]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "Frontier",
+    "name": "Frontier",
+    "url": "http://d16.pl/frontier",
+    "docs": "",
+    "developer": "d16",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["limiter"]
+}

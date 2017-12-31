@@ -1,0 +1,10 @@
+{
+    "id": "MLimiterX",
+    "name": "MLimiterX",
+    "url": "https://www.meldaproduction.com/MLimiterX",
+    "docs": "",
+    "developer": "meldaproduction",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["limiter"]
+}

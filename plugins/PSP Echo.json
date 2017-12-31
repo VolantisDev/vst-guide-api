@@ -1,0 +1,10 @@
+{
+    "id": "PSP Echo",
+    "name": "Echo",
+    "url": "http://www.pspaudioware.com/plugins/delays/psp_echo/",
+    "docs": "",
+    "developer": "psp",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["delay", "echo"]
+}

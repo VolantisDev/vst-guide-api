@@ -1,0 +1,11 @@
+{
+    "id": "PSP StereoAnalyser",
+    "name": "StereoAnalyser",
+    "url": "http://www.pspaudioware.com/plugins/tools_and_meters/psp_stereoanalyser/",
+    "docs": "",
+    "developer": "psp",
+    "suites": ["PSP StereoPack"],
+    "types": ["tool"],
+    "sources": ["vst2"],
+    "tags": ["analyzer", "stereo"]
+}

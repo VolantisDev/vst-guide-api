@@ -1,0 +1,10 @@
+{
+    "id": "Cataract",
+    "name": "Cataract",
+    "url": "https://glitchmachines.com/products/cataract/",
+    "docs": "",
+    "developer": "glitchmachines",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["multi-effect", "delay", "filter", "multiplexer"]
+}

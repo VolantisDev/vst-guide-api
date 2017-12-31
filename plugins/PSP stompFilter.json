@@ -1,0 +1,10 @@
+{
+    "id": "PSP stompFilter",
+    "name": "stompFilter",
+    "url": "http://www.pspaudioware.com/plugins/multimode_effects/psp_stompfilter/",
+    "docs": "",
+    "developer": "psp",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["filter"]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "MTurboComp",
+    "name": "MTurboComp",
+    "url": "https://www.meldaproduction.com/MTurboComp",
+    "docs": "",
+    "developer": "meldaproduction",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["compressor"]
+}

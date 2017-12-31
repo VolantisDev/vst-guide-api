@@ -1,0 +1,10 @@
+{
+    "id": "BoostEffect Volantis",
+    "name": "Boost Effect",
+    "url": "http://syncersoft.com/boosteffect.htm",
+    "docs": "",
+    "developer": "syncersoft",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["frequency booster"]
+}

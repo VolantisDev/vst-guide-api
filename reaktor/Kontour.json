@@ -1,0 +1,10 @@
+{
+    "id": "Kontour",
+    "name": "Kontour",
+    "url": "",
+    "docs": "",
+    "developer": "ni",
+    "sources": ["reaktor"],
+    "type": ["instrument"],
+    "tags": ["synth"]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "kHz Reverb",
+    "name": "Reverb",
+    "url": "https://kilohearts.com/products/reverb",
+    "docs": "",
+    "developer": "kilohearts",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["reverb"]
+}

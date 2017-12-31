@@ -1,0 +1,9 @@
+{
+    "id": "West Africa",
+    "name": "West Africa",
+    "url": "",
+    "docs": "",
+    "developer": "ni",
+    "sources": ["kontakt-library"],
+    "tags": ["world"]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "MMorph",
+    "name": "MMorph",
+    "url": "https://www.meldaproduction.com/MMorph",
+    "docs": "",
+    "developer": "meldaproduction",
+    "types": ["tool"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["dj"]
+}

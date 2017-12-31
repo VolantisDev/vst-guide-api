@@ -1,0 +1,10 @@
+{
+    "id": "Frohmage",
+    "name": "Frohmage",
+    "url": "https://www.ohmforce.com/ViewProduct.do?p=Frohmage",
+    "docs": "",
+    "developer": "ohmforce",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["multi-effect", "filter", "distortion"]
+}

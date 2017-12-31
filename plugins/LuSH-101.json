@@ -1,0 +1,10 @@
+{
+    "id": "LuSH-101",
+    "name": "LuSH-101",
+    "url": "http://d16.pl/lush-101",
+    "docs": "",
+    "developer": "d16",
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["synth"]
+}

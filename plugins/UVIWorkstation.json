@@ -1,0 +1,10 @@
+{
+    "id": "UVIWorkstationVST",
+    "name": "UVI Workstation",
+    "url": "https://www.uvi.net/uvi-workstation.html",
+    "docs": "",
+    "developer": "uvi",
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["player", "host"]
+}

@@ -1,0 +1,11 @@
+{
+    "id": "Blue2",
+    "name": "BLUE II",
+    "url": "https://www.robpapen.com/blue2.html",
+    "docs": "",
+    "developer": "robpapen",
+    "suites": ["eXplorer4"],
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["synth"]
+}

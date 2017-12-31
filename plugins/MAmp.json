@@ -1,0 +1,10 @@
+{
+    "id": "MAmp",
+    "name": "MAmp",
+    "url": "https://www.meldaproduction.com/MAmp",
+    "docs": "",
+    "developer": "meldaproduction",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["distortion", "saturation", "amp simulation"]
+}

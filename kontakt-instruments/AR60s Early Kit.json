@@ -1,0 +1,10 @@
+{
+    "id": "AR60s Early Kit",
+    "name": "Abbey Road 60s Drummer - Early Kit",
+    "url": "",
+    "docs": "",
+    "developer": "ni",
+    "suites": ["Abbey Road 60s Drummer", "Komplete 10", "Komplete 11"],
+    "sources": ["kontakt-instrument"],
+    "tags": ["drums", "percussion"]
+}

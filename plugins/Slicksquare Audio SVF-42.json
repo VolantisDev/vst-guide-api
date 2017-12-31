@@ -1,0 +1,10 @@
+{
+    "id": "Slicksquare Audio SVF-42",
+    "name": "SVF-42",
+    "url": "https://www.kvraudio.com/product/svf-42-by-slicksquare",
+    "docs": "",
+    "developer": "slicksquare",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["filter"]
+}

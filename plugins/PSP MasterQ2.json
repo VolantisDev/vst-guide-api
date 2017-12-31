@@ -1,0 +1,10 @@
+{
+    "id": "PSP MasterQ2",
+    "name": "MasterQ2",
+    "url": "http://www.pspaudioware.com/plugins/equalizers/psp_masterq2/",
+    "docs": "",
+    "developer": "psp",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["equalizer"]
+}

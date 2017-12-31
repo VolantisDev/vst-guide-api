@@ -1,0 +1,11 @@
+{
+    "id": "VolumeShaper4",
+    "name": "VolumeShaper 4",
+    "url": "http://www.cableguys.com/volumeshaper.html",
+    "docs": "",
+    "developer": "cableguys",
+    "parent": "ShaperBox",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["volume"]
+}

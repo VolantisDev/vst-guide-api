@@ -1,0 +1,10 @@
+{
+    "id": "Radio",
+    "name": "Radio",
+    "url": "https://www.pluginboutique.com/product/3-Studio-Tools/72-Utility/3941-Radio",
+    "docs": "",
+    "developer": "pluginboutique",
+    "types": ["tool"],
+    "sources": ["vst2"],
+    "tags": ["audio player", "streamer"]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "Vapor",
+    "name": "Vapor",
+    "url": "https://www.audiodamage.com/collections/all/vapor",
+    "docs": "",
+    "developer": "audiodamage",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["chorus"]
+}

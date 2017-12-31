@@ -1,0 +1,9 @@
+{
+    "id": "Session Strings Pro",
+    "name": "Session Strings Pro",
+    "url": "",
+    "docs": "",
+    "developer": "ni",
+    "sources": ["kontakt-library"],
+    "tags": ["strings"]
+}

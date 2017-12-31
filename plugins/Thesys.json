@@ -1,0 +1,10 @@
+{
+    "id": "Thesys",
+    "name": "Thesys",
+    "url": "https://sugar-bytes.de/thesys",
+    "docs": "",
+    "developer": "sugarbytes",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["multi-effect", "pitch", "sequencer"]
+}

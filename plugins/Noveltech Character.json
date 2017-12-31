@@ -1,0 +1,10 @@
+{
+    "id": "Noveltech Character",
+    "name": "Character",
+    "url": "http://www.noveltechaudio.com/products/character/",
+    "docs": "",
+    "developer": "noveltech",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["enhancer"]
+}

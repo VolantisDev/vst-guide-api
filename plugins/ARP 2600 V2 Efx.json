@@ -1,0 +1,12 @@
+{
+    "id": "ARP 2600 V2",
+    "name": "ARP2600 V2",
+    "url": "https://www.arturia.com/products/analog-classics/arp2600v",
+    "docs": "",
+    "developer": "arturia",
+    "parent": "ARP 2600 V2",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "suites": ["V Collection 3", "V Collection 4", "V Collection 5", "V Collection 6"],
+    "tags": ["multi-effect"]
+}

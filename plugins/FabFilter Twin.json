@@ -1,0 +1,10 @@
+{
+    "id": "FabFilter Twin",
+    "name": "Twin",
+    "url": "https://www.fabfilter.com/products/twin-2-powerful-synthesizer-plug-in",
+    "docs": "",
+    "developer": "fabfilter",
+    "types": ["instrument"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["synth"]
+}

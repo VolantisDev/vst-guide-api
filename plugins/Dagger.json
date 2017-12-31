@@ -1,0 +1,10 @@
+{
+    "id": "Dagger",
+    "name": "Dagger",
+    "url": "http://www.beepstreet.com/plugins/dagger",
+    "docs": "",
+    "developer": "beepstreet",
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["synth"]
+}

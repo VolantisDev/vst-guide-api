@@ -1,0 +1,10 @@
+{
+    "id": "BC Triple EQ 4",
+    "name": "Triple EQ 4",
+    "url": "https://www.bluecataudio.com/Products/Product_TripleEQ/",
+    "docs": "",
+    "developer": "bluecat",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["equalizer", "multi-band"]
+}

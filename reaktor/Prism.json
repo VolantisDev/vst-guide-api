@@ -1,0 +1,10 @@
+{
+    "id": "Prism",
+    "name": "Prism",
+    "url": "",
+    "docs": "",
+    "developer": "ni",
+    "sources": ["reaktor"],
+    "type": ["instrument"],
+    "tags": ["synth"]
+}

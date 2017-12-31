@@ -1,0 +1,9 @@
+{
+    "id": "Rammfire",
+    "name": "RAMMFIRE",
+    "url": "",
+    "docs": "",
+    "developer": "ni",
+    "sources": ["guitar-rig"],
+    "tags": ["amp", "distortion"]
+}

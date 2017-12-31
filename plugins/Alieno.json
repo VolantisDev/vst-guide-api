@@ -1,0 +1,10 @@
+{
+    "id": "Alieno",
+    "name": "Alieno",
+    "url": "http://www.blank-media.it/acrobatics/",
+    "docs": "",
+    "developer": "acrobatics",
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["synth"]
+}

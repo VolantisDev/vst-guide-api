@@ -1,0 +1,10 @@
+{
+    "id": "Solid EQ",
+    "name": "Solid EQ",
+    "url": "https://www.native-instruments.com/en/products/komplete/effects/solid-eq/",
+    "docs": "",
+    "developer": "ni",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["equalizer"]
+}

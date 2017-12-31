@@ -1,0 +1,10 @@
+{
+    "id": "Ronin",
+    "name": "Ronin",
+    "url": "https://www.audiodamage.com/",
+    "docs": "",
+    "developer": "audiodamage",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["multi-effect", "delay", "filter", "saturation"]
+}

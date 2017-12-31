@@ -1,0 +1,10 @@
+{
+    "id": "HoRNetTrackUtility",
+    "name": "TrackUtility",
+    "url": "https://www.hornetplugins.com/plugins/hornet-trackutility-mk2/",
+    "docs": "",
+    "developer": "hornet",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["multi-effect", "channel strip"]
+}

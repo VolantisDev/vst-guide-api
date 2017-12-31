@@ -1,0 +1,10 @@
+{
+    "id": "VC 2A",
+    "name": "VC 2A",
+    "url": "https://www.native-instruments.com/en/products/komplete/effects/vc-2a/",
+    "docs": "",
+    "developer": "ni",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["compressor"]
+}

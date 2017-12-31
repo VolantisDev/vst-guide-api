@@ -1,0 +1,10 @@
+{
+    "id": "MComb",
+    "name": "MComb",
+    "url": "https://www.meldaproduction.com/MComb",
+    "docs": "",
+    "developer": "meldaproduction",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["filter", "multi-comb filter"]
+}

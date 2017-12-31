@@ -1,0 +1,10 @@
+{
+    "id": "MPolySaturator",
+    "name": "MPolySaturator",
+    "url": "https://www.meldaproduction.com/MPolySaturator",
+    "docs": "",
+    "developer": "meldaproduction",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["saturation", "spectral saturation"]
+}

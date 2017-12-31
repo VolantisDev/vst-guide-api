@@ -1,0 +1,10 @@
+{
+    "id": "Bitspeek",
+    "name": "Bitspeek",
+    "url": "https://soniccharge.com/bitspeek",
+    "docs": "",
+    "developer": "soniccharge",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["vocal", "linear prediction", "pitch"]
+}

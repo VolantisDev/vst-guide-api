@@ -1,0 +1,10 @@
+{
+    "id": "MUnison",
+    "name": "MUnison",
+    "url": "https://www.meldaproduction.com/MUnison",
+    "docs": "",
+    "developer": "meldaproduction",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["doubler", "unison", "harmonizer"]
+}

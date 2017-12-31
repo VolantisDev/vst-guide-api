@@ -1,0 +1,10 @@
+{
+    "id": "MGranularMB",
+    "name": "MGranularMB",
+    "url": "https://www.meldaproduction.com/MGranularMB",
+    "docs": "",
+    "developer": "meldaproduction",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["granular resynthesizer", "multi-band"]
+}

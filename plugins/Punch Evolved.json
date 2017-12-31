@@ -1,0 +1,10 @@
+{
+    "id": "Punch Evolved",
+    "name": "Punch Evolved",
+    "url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/373-Punch-Evolved",
+    "docs": "",
+    "developer": "msg",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["compressor"]
+}

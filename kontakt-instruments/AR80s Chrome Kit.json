@@ -1,0 +1,10 @@
+{
+    "id": "AR80s Chrome Kit",
+    "name": "Abbey Road 80s Drummer - Chrome Kit",
+    "url": "",
+    "docs": "",
+    "developer": "ni",
+    "suites": ["Abbey Road 80s Drummer", "Komplete 10", "Komplete 11"],
+    "sources": ["kontakt-instrument"],
+    "tags": ["drums", "percussion"]
+}

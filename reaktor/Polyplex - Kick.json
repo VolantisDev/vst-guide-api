@@ -1,0 +1,10 @@
+{
+    "id": "Polyplex - Kick",
+    "name": "Polyplex - Kick",
+    "url": "",
+    "docs": "",
+    "developer": "ni",
+    "sources": ["reaktor"],
+    "type": ["instrument"],
+    "tags": ["drums", "kick"]
+}

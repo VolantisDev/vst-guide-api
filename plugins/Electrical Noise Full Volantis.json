@@ -1,0 +1,10 @@
+{
+    "id": "Electrical Noise Full Volantis",
+    "name": "Ambient: Electrical Noise Full",
+    "url": "http://syncersoft.com/boosteffect.htm",
+    "docs": "",
+    "developer": "syncersoft",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["sound generator"]
+}

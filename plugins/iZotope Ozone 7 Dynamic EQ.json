@@ -1,0 +1,12 @@
+{
+    "id": "iZotope Ozone 7 Dynamic EQ",
+    "name": "Ozone 7 Dynamic EQ",
+    "url": "https://www.izotope.com/en/products/master-and-deliver/ozone/features-and-comparison/dynamic-eq.html",
+    "docs": "",
+    "developer": "izotope",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "parent": "iZotope Ozone 7",
+    "suites": ["Ozone 7 Advanced"],
+    "tags": ["equalizer", "dynamic-eq", "mastering"]
+}

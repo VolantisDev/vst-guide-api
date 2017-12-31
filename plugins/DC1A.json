@@ -1,0 +1,10 @@
+{
+    "id": "DC1A",
+    "name": "DC1A",
+    "url": "https://klanghelm.com/contents/products/DC1A/DC1A.php",
+    "docs": "",
+    "developer": "klanghelm",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["compressor"]
+}

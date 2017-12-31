@@ -1,0 +1,10 @@
+{
+    "id": "Enhanced EQ",
+    "name": "Enhanced EQ",
+    "url": "https://www.native-instruments.com/en/products/komplete/effects/enhanced-eq/",
+    "docs": "",
+    "developer": "ni",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["equalizer"]
+}

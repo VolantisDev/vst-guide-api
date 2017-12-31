@@ -1,0 +1,10 @@
+{
+    "id": "AAS Player",
+    "name": "AAS Player",
+    "url": "https://www.applied-acoustics.com/aas-player/",
+    "docs": "",
+    "developer": "aas",
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["player"]
+}

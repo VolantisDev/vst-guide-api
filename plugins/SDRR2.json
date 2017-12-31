@@ -1,0 +1,10 @@
+{
+    "id": "SDRR2",
+    "name": "SDRR 2",
+    "url": "https://klanghelm.com/contents/products/SDRR/SDRR.php",
+    "docs": "",
+    "developer": "klanghelm",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["saturation"]
+}

@@ -1,0 +1,11 @@
+{
+    "id": "PSP MixSync2",
+    "name": "MixSync2",
+    "url": "http://www.pspaudioware.com/plugins/tools_and_meters/psp_mixsync2/",
+    "docs": "",
+    "developer": "psp",
+    "suites": ["PSP MixPack2"],
+    "types": ["tool"],
+    "sources": ["vst2"],
+    "tags": ["latency", "sync"]
+}

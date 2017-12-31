@@ -1,0 +1,10 @@
+{
+    "id": "Damage - Hybrid FX Hits",
+    "name": "Damage - Hybrid FX Hits",
+    "url": "",
+    "docs": "",
+    "developer": "ni",
+    "suites": ["Damage", "Komplete 10", "Komplete 11"],
+    "sources": ["kontakt-instrument"],
+    "tags": ["drums", "percussion"]
+}

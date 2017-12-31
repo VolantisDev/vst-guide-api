@@ -1,0 +1,10 @@
+{
+    "id": "MTuner",
+    "name": "MTuner",
+    "url": "https://www.meldaproduction.com/MTuner",
+    "docs": "",
+    "developer": "meldaproduction",
+    "types": ["tool"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["analyzer"]
+}

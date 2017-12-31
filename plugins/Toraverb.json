@@ -1,0 +1,10 @@
+{
+    "id": "Toraverb",
+    "name": "Toraverb",
+    "url": "http://d16.pl/toraverb",
+    "docs": "",
+    "developer": "d16",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["reverb"]
+}

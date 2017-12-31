@@ -1,0 +1,10 @@
+{
+    "id": "Looperator",
+    "name": "Looperator",
+    "url": "https://sugar-bytes.de/looperator",
+    "docs": "",
+    "developer": "sugarbytes",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["multi-effect", "sequencer", "slicer"]
+}

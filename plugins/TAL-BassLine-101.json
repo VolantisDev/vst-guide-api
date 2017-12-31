@@ -1,0 +1,10 @@
+{
+    "id": "TAL-BassLine-101",
+    "name": "TAL-BassLine-101",
+    "url": "https://tal-software.com/products/tal-bassline-101",
+    "docs": "",
+    "developer": "tal",
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["synth", "bass"]
+}

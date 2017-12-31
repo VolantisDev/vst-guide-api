@@ -1,0 +1,10 @@
+{
+    "id": "Cyanide2",
+    "name": "Cyanide 2",
+    "url": "http://bram.smartelectronix.com/plugins.php?id=3",
+    "docs": "",
+    "developer": "smartelectronix",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["filter"]
+}

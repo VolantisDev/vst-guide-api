@@ -1,0 +1,10 @@
+{
+    "id": "MIDIChFilter",
+    "name": "MIDIChFilter",
+    "url": "http://www.codefn42.com/midichfilter/index.html",
+    "docs": "",
+    "developer": "codefn42",
+    "types": ["tool"],
+    "sources": ["vst2"],
+    "tags": ["midi"]
+}

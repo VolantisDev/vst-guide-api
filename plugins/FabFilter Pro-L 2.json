@@ -1,0 +1,10 @@
+{
+    "id": "FabFilter Pro-L 2",
+    "name": "Pro-L 2",
+    "url": "https://www.fabfilter.com/products/pro-l-2-limiter-plug-in",
+    "docs": "",
+    "developer": "fabfilter",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["limiter"]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "MSaturatorMB",
+    "name": "MSaturatorMB",
+    "url": "https://www.meldaproduction.com/MSaturatorMB",
+    "docs": "",
+    "developer": "meldaproduction",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["saturation", "multi-band"]
+}

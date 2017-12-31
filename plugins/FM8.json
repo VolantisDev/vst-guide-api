@@ -1,0 +1,10 @@
+{
+    "id": "FM8",
+    "name": "FM8",
+    "url": "https://www.native-instruments.com/en/products/komplete/synths/fm8/",
+    "docs": "",
+    "developer": "ni",
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["synth"]
+}

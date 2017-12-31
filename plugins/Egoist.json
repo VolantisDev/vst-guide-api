@@ -1,0 +1,10 @@
+{
+    "id": "Egoist",
+    "name": "Egoist",
+    "url": "https://sugar-bytes.de/egoist",
+    "docs": "",
+    "developer": "sugarbytes",
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["sampler", "sequencer", "drum machine", "drums", "slicer"]
+}

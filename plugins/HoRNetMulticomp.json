@@ -1,0 +1,10 @@
+{
+    "id": "HoRNetMulticomp",
+    "name": "Multicomp Plus Mk2",
+    "url": "https://www.hornetplugins.com/plugins/hornet-multicomp-plus-mk2/",
+    "docs": "",
+    "developer": "hornet",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["compressor"]
+}

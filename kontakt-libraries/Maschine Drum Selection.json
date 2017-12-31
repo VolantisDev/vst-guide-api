@@ -1,0 +1,9 @@
+{
+    "id": "Maschine Drum Selection",
+    "name": "Maschine Drum Selection",
+    "url": "",
+    "docs": "",
+    "developer": "ni",
+    "sources": ["kontakt-library"],
+    "tags": ["drums", "percussion"]
+}

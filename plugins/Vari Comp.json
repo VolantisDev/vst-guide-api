@@ -1,0 +1,10 @@
+{
+    "id": "Vari Comp",
+    "name": "Vari Comp",
+    "url": "https://www.native-instruments.com/en/products/komplete/effects/vari-comp/",
+    "docs": "",
+    "developer": "ni",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["compressor"]
+}

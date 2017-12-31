@@ -1,0 +1,12 @@
+{
+    "id": "iZotope RX 5 De-hum",
+    "name": "RX 5 De-hum",
+    "url": "https://www.izotope.com/en/products/repair-and-edit/rx/features/mouth-de-hum.html",
+    "docs": "",
+    "developer": "izotope",
+    "types": ["tool"],
+    "sources": ["vst2", "vst3"],
+    "parent": "iZotope RX 5",
+    "suites": ["RX 5 Advanced", "RX 5 Elements", "RX 5 Standard"],
+    "tags": ["de-hum", "vocal"]
+}

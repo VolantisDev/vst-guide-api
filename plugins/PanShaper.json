@@ -1,0 +1,11 @@
+{
+    "id": "PanShaper",
+    "name": "PanShaper",
+    "url": "http://www.cableguys.com/panshaper.html",
+    "docs": "",
+    "developer": "cableguys",
+    "parent": "ShaperBox",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["pan"]
+}

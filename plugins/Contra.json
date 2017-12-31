@@ -1,0 +1,10 @@
+{
+    "id": "Contra",
+    "name": "Contra",
+    "url": "https://www.audiovitamins.com/contra/",
+    "docs": "",
+    "developer": "audiovitamins",
+    "types": ["tool"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["plugin host"]
+}

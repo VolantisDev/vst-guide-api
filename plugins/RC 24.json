@@ -1,0 +1,10 @@
+{
+    "id": "RC 24",
+    "name": "RC 24",
+    "url": "https://www.native-instruments.com/en/products/komplete/effects/rc-24/",
+    "docs": "",
+    "developer": "ni",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["reverb"]
+}

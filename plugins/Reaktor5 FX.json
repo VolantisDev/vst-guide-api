@@ -1,0 +1,10 @@
+{
+    "id": "Reaktor5 FX",
+    "name": "Reaktor 5 FX",
+    "url": "https://www.native-instruments.com/en/products/komplete/synths/reaktor-6/",
+    "docs": "",
+    "developer": "ni",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["multi-effect"]
+}

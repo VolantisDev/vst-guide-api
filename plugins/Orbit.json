@@ -1,0 +1,10 @@
+{
+    "id": "Orbit",
+    "name": "Orbit",
+    "url": "https://www.soundspot.audio/downloads/orbit-transient-designer-1/",
+    "docs": "",
+    "developer": "soundspot",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["transients"]
+}

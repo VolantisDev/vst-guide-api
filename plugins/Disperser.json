@@ -1,0 +1,10 @@
+{
+    "id": "Disperser",
+    "name": "Disperser",
+    "url": "https://kilohearts.com/products/disperser",
+    "docs": "",
+    "developer": "kilohearts",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["filter"]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "MWaveFolder",
+    "name": "MWaveFolder",
+    "url": "https://www.meldaproduction.com/MWaveFolder",
+    "docs": "",
+    "developer": "meldaproduction",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["distortion"]
+}

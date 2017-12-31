@@ -1,0 +1,10 @@
+{
+    "id": "Noise Forest Volantis",
+    "name": "Nature: Noise Forest",
+    "url": "http://syncersoft.com/noiseforest.htm",
+    "docs": "",
+    "developer": "syncersoft",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["sound generator"]
+}

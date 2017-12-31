@@ -1,0 +1,10 @@
+{
+    "id": "Driver",
+    "name": "Driver",
+    "url": "https://www.native-instruments.com/en/products/komplete/effects/driver/",
+    "docs": "",
+    "developer": "ni",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["distortion"]
+}

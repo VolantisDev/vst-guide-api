@@ -1,0 +1,10 @@
+{
+    "id": "Bazille",
+    "name": "Bazille",
+    "url": "https://www.u-he.com/cms/bazille",
+    "docs": "",
+    "developer": "u-he",
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["synth"]
+}

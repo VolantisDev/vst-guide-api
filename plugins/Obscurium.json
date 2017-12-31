@@ -1,0 +1,10 @@
+{
+    "id": "Obscurium",
+    "name": "Obscurium",
+    "url": "https://sugar-bytes.de/obscurium",
+    "docs": "",
+    "developer": "sugarbytes",
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["synth"]
+}

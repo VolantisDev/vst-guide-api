@@ -1,0 +1,12 @@
+{
+    "id": "iZotope Nectar 2 Breath Control",
+    "name": "Nectar 2 Breath Control",
+    "url": "https://www.izotope.com/en/products/mix/nectar/features/#breath-control",
+    "docs": "",
+    "developer": "izotope",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "parent": "iZotope Nectar 2",
+    "suites": ["Nectar 2 Production Suite"],
+    "tags": ["multi-effect", "vocals"]
+}

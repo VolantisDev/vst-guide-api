@@ -1,0 +1,10 @@
+{
+    "id": "Mangleverb",
+    "name": "Mangleverb",
+    "url": "https://www.audiodamage.com/products/ad032-mangleverb",
+    "docs": "",
+    "developer": "audiodamage",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["multi-effect", "reverb", "filter"]
+}

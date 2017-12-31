@@ -1,0 +1,10 @@
+{
+    "id": "PSP preQursor2",
+    "name": "preQursor2",
+    "url": "http://www.pspaudioware.com/plugins/equalizers/psp_preqursor2/",
+    "docs": "",
+    "developer": "psp",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["equalizer"]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "MTransient",
+    "name": "MTransient",
+    "url": "https://www.meldaproduction.com/MTransient",
+    "docs": "",
+    "developer": "meldaproduction",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["transient"]
+}

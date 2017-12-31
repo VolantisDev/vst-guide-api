@@ -1,0 +1,10 @@
+{
+    "id": "Massive",
+    "name": "Massive",
+    "url": "https://www.native-instruments.com/en/products/komplete/synths/massive/",
+    "docs": "",
+    "developer": "ni",
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["synth"]
+}

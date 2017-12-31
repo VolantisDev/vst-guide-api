@@ -1,0 +1,11 @@
+{
+    "id": "SSi Pro Gate and Expander",
+    "name": "Pro Expander & Gate",
+    "url": "http://www.pluginboutique.com/product/37-Expander/239-SSi-Pro-Expander-and-Gate",
+    "docs": "",
+    "developer": "msg",
+    "suites": ["Ultimate Mastering Bundle"],
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["gate", "expander"]
+}

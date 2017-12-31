@@ -1,0 +1,12 @@
+{
+    "id": "Neutron Exciter",
+    "name": "Neutron Exciter",
+    "url": "https://www.izotope.com/en/products/mix/neutron/features-and-comparison/exciter.html",
+    "docs": "",
+    "developer": "izotope",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "parent": "iZNeutron",
+    "suites": ["Neutron Advanced"],
+    "tags": ["exciter"]
+}

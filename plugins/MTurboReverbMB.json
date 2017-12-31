@@ -1,0 +1,10 @@
+{
+    "id": "MTurboReverbMB",
+    "name": "MTurboReverbMB",
+    "url": "https://www.meldaproduction.com/MTurboReverbMB",
+    "docs": "",
+    "developer": "meldaproduction",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["reverb", "multi-band"]
+}

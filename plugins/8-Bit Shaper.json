@@ -1,0 +1,10 @@
+{
+    "id": "8-Bit Shaper",
+    "name": "8-Bit Shaper",
+    "url": "https://www.pluginboutique.com/product/2-Effects/32-Bit-Crusher/2041-8-Bit-Shaper",
+    "docs": "",
+    "developer": "xfer",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["distortion", "bit crusher"]
+}

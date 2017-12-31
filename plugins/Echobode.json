@@ -1,0 +1,10 @@
+{
+    "id": "Echobode",
+    "name": "Echobode",
+    "url": "https://soniccharge.com/echobode",
+    "docs": "",
+    "developer": "soniccharge",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["delay"]
+}

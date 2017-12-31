@@ -1,0 +1,10 @@
+{
+    "id": "AR Modern Sparkle Kit",
+    "name": "Abbey Road Modern Drummer - Sparkle Kit",
+    "url": "",
+    "docs": "",
+    "developer": "ni",
+    "suites": ["Abbey Road Modern Drummer", "Komplete 10", "Komplete 11"],
+    "sources": ["kontakt-instrument"],
+    "tags": ["drums", "percussion"]
+}

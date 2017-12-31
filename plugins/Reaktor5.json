@@ -1,0 +1,10 @@
+{
+    "id": "Reaktor5",
+    "name": "Reaktor 5",
+    "url": "https://www.native-instruments.com/en/products/komplete/synths/reaktor-6/",
+    "docs": "",
+    "developer": "ni",
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["synth", "multi-instrument"]
+}

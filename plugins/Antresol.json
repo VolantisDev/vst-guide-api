@@ -1,0 +1,10 @@
+{
+    "id": "Antresol",
+    "name": "Antresol",
+    "url": "http://d16.pl/antresol",
+    "docs": "",
+    "developer": "d16",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["flanger"]
+}

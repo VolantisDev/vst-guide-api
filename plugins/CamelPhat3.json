@@ -1,0 +1,10 @@
+{
+    "id": "CamelPhat3",
+    "name": "CamelPhat 3",
+    "url": "http://www.musicradar.com/news/tech/camel-audio-plugins-and-apps-no-longer-available-613289",
+    "docs": "",
+    "developer": "camelaudio",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["multi-effect", "distortion", "saturation"]
+}

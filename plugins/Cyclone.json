@@ -1,0 +1,10 @@
+{
+    "id": "Cyclone",
+    "name": "Cyclone",
+    "url": "https://soniccharge.com/forum/topic/433-a-blast-from-the-past",
+    "docs": "",
+    "developer": "soniccharge",
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["sampler"]
+}

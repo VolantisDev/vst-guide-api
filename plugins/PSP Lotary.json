@@ -1,0 +1,10 @@
+{
+    "id": "PSP Lotary",
+    "name": "L'otary2",
+    "url": "http://www.pspaudioware.com/plugins/multimode_effects/psp_lotary/",
+    "docs": "",
+    "developer": "psp",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["rotary"]
+}

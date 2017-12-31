@@ -1,0 +1,10 @@
+{
+    "id": "DrDevice",
+    "name": "Dr. Device",
+    "url": "https://www.audiodamage.com/products/ad014-dr-device",
+    "docs": "",
+    "developer": "audiodamage",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["multi-effect", "delay", "filter"]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "Faturator",
+    "name": "Faturator",
+    "url": "https://kilohearts.com/products/faturator",
+    "docs": "",
+    "developer": "kilohearts",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["distortion", "saturation", "multi-effect"]
+}

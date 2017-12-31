@@ -1,0 +1,10 @@
+{
+    "id": "Chordit",
+    "name": "Chordit",
+    "url": "http://www.codefn42.com/chordit/index.html",
+    "docs": "",
+    "developer": "codefn42",
+    "types": ["tool"],
+    "sources": ["vst2"],
+    "tags": ["midi"]
+}

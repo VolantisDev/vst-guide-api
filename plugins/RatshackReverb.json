@@ -1,0 +1,10 @@
+{
+    "id": "RatshackReverb",
+    "name": "Ratshack Reverb",
+    "url": "https://www.audiodamage.com/products/ad002-ratshack-reverb",
+    "docs": "",
+    "developer": "audiodamage",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["reverb"]
+}

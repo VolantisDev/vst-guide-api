@@ -1,0 +1,10 @@
+{
+    "id": "BC Phaser 3",
+    "name": "Phaser 3",
+    "url": "https://www.bluecataudio.com/Products/Product_Phaser/",
+    "docs": "",
+    "developer": "bluecat",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["phaser"]
+}

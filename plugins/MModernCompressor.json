@@ -1,0 +1,10 @@
+{
+    "id": "MModernCompressor",
+    "name": "MModernCompressor",
+    "url": "https://www.meldaproduction.com/MModernCompressor",
+    "docs": "",
+    "developer": "meldaproduction",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["compressor"]
+}

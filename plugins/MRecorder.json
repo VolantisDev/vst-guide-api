@@ -1,0 +1,10 @@
+{
+    "id": "MRecorder",
+    "name": "MRecorder",
+    "url": "https://www.meldaproduction.com/MRecorder",
+    "docs": "",
+    "developer": "meldaproduction",
+    "types": ["tool"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["recorder"]
+}

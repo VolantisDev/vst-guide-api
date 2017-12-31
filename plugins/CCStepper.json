@@ -1,0 +1,10 @@
+{
+    "id": "CCStepper",
+    "name": "CCStepper",
+    "url": "http://www.codefn42.com/ccstepper/index.html",
+    "docs": "",
+    "developer": "codefn42",
+    "types": ["tool"],
+    "sources": ["vst2"],
+    "tags": ["midi", "sequencer"]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "FabFilter Pro-MB",
+    "name": "Pro-MB",
+    "url": "https://www.fabfilter.com/products/pro-mb-multiband-compressor-plug-in",
+    "docs": "",
+    "developer": "fabfilter",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["compressor", "multi-band"]
+}

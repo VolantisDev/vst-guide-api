@@ -1,0 +1,10 @@
+{
+    "id": "Lexicon PSP42",
+    "name": "Lexicon PSP 42",
+    "url": "http://www.pspaudioware.com/plugins/delays/lexicon_psp_42/",
+    "docs": "",
+    "developer": "psp",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["delay", "phrase sampler"]
+}

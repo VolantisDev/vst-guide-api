@@ -1,0 +1,10 @@
+{
+    "id": "Discord 3",
+    "name": "Discord3",
+    "url": "https://www.audiodamage.com/products/ad025-discord3",
+    "docs": "",
+    "developer": "audiodamage",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["multi-effect", "delay", "filter"]
+}

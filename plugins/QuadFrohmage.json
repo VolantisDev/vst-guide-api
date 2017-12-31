@@ -1,0 +1,10 @@
+{
+    "id": "QuadFrohmage",
+    "name": "QuadFrohmage",
+    "url": "https://www.ohmforce.com/ViewProduct.do?p=QuadFrohmage",
+    "docs": "",
+    "developer": "ohmforce",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["multi-effect", "filter", "distortion"]
+}

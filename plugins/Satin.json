@@ -1,0 +1,10 @@
+{
+    "id": "Satin",
+    "name": "Satin",
+    "url": "http://www.u-he.com/cms/satin",
+    "docs": "",
+    "developer": "u-he",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["tape emulation", "saturation", "transients", "compressor"]
+}

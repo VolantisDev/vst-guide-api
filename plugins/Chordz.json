@@ -1,0 +1,10 @@
+{
+    "id": "Chordz",
+    "name": "Chordz",
+    "url": "http://www.codefn42.com/chordz/index.html",
+    "docs": "",
+    "developer": "codefn42",
+    "types": ["tool"],
+    "sources": ["vst2"],
+    "tags": ["midi"]
+}

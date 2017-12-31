@@ -1,0 +1,12 @@
+{
+    "id": "iZotope Ozone 7 Vintage Tape",
+    "name": "Ozone 7 Vintage Tape",
+    "url": "https://www.izotope.com/en/products/master-and-deliver/ozone/features-and-comparison/vintage-tape.html",
+    "docs": "",
+    "developer": "izotope",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "parent": "iZotope Ozone 7",
+    "suites": ["Ozone 7 Advanced"],
+    "tags": ["saturation", "mastering"]
+}

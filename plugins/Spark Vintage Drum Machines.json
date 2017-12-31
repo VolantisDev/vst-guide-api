@@ -1,0 +1,10 @@
+{
+    "id": "Spark Vintage Drum Machines",
+    "name": "Spark Vintage Drum Machines",
+    "url": "https://www.arturia.com/products/drums/spark-vdm",
+    "docs": "",
+    "developer": "arturia",
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["drums", "drum-machine", "collection"]
+}

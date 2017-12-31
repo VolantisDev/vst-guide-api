@@ -1,0 +1,10 @@
+{
+    "id": "Chromaphone 2",
+    "name": "Chromaphone 2",
+    "url": "https://www.applied-acoustics.com/chromaphone-2/",
+    "docs": "",
+    "developer": "aas",
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["synth", "percussion", "drums"]
+}

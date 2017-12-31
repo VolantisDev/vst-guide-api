@@ -1,0 +1,11 @@
+{
+    "id": "RG",
+    "name": "RG",
+    "url": "https://www.robpapen.com/rg.html",
+    "docs": "",
+    "developer": "robpapen",
+    "suites": ["eXplorer4"],
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["synth", "guitar"]
+}

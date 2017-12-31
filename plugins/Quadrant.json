@@ -1,0 +1,10 @@
+{
+    "id": "Quadrant",
+    "name": "Quadrant",
+    "url": "https://glitchmachines.com/products/quadrant/",
+    "docs": "",
+    "developer": "glitchmachines",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["multi-effect", "sound generator"]
+}

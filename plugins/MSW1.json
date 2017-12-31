@@ -1,0 +1,10 @@
+{
+    "id": "MSW1",
+    "name": "MSW1",
+    "url": "https://www.pluginboutique.com/product/2-Effects/27-Stereo-Width/3044-MSW1",
+    "docs": "",
+    "developer": "soundspot",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["stereo"]
+}

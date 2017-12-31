@@ -1,0 +1,10 @@
+{
+    "id": "Serum",
+    "name": "Serum",
+    "url": "https://www.xferrecords.com/products/serum",
+    "docs": "",
+    "developer": "xfer",
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["synth"]
+}

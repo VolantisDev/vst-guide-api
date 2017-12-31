@@ -1,0 +1,10 @@
+{
+    "id": "Blackhole",
+    "name": "Blackhole",
+    "url": "https://www.eventideaudio.com/products/plugins/reverb/blackhole",
+    "docs": "",
+    "developer": "eventide",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["reverb"]
+}

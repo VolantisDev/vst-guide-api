@@ -1,0 +1,10 @@
+{
+    "id": "TyrellN6",
+    "name": "TyrellN6",
+    "url": "https://www.u-he.com/cms/tyrelln6",
+    "docs": "",
+    "developer": "u-he",
+    "types": ["instrument"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["synth"]
+}

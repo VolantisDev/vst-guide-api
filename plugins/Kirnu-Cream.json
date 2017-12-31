@@ -1,0 +1,10 @@
+{
+    "id": "Kirnu-Cream",
+    "name": "Cream",
+    "url": "http://www.kirnuarp.com/",
+    "docs": "",
+    "developer": "kirnu",
+    "types": ["tool"],
+    "sources": ["vst2"],
+    "tags": ["midi"]
+}

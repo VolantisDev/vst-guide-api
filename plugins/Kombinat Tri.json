@@ -1,0 +1,10 @@
+{
+    "id": "Kombinat Tri",
+    "name": "Kombinat Tri",
+    "url": "https://www.audiodamage.com/products/ad037-kombinat-tri",
+    "docs": "",
+    "developer": "audiodamage",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["distortion", "multi-effect"]
+}

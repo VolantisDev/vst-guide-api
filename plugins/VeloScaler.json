@@ -1,0 +1,10 @@
+{
+    "id": "VeloScaler",
+    "name": "VeloScaler",
+    "url": "http://www.codefn42.com/veloscaler/index.html",
+    "docs": "",
+    "developer": "codefn42",
+    "types": ["tool"],
+    "sources": ["vst2"],
+    "tags": ["midi"]
+}

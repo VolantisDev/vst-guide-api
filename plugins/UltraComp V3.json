@@ -1,0 +1,10 @@
+{
+    "id": "UltraComp V3",
+    "name": "UltraComp",
+    "url": "https://www.pluginboutique.com/products/238-UltraComp",
+    "docs": "",
+    "developer": "msg",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["compressor"]
+}

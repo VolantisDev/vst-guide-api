@@ -1,0 +1,10 @@
+{
+    "id": "FabFilter Micro",
+    "name": "Micro",
+    "url": "https://www.fabfilter.com/products/micro-mini-filter-plug-in",
+    "docs": "",
+    "developer": "fabfilter",
+    "types": ["instrument"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["synth"]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "PSP BussPressor",
+    "name": "BussPressor",
+    "url": "http://www.pspaudioware.com/plugins/dynamic_processors/psp_busspressor/",
+    "docs": "",
+    "developer": "psp",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["compressor"]
+}

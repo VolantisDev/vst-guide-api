@@ -1,0 +1,10 @@
+{
+    "id": "SynthMaster2",
+    "name": "SynthMaster 2",
+    "url": "https://www.kv331audio.com/synthmaster.aspx",
+    "docs": "",
+    "developer": "kv331",
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["synth"]
+}

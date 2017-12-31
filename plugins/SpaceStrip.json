@@ -1,0 +1,10 @@
+{
+    "id": "SpaceStrip",
+    "name": "Space Strip",
+    "url": "https://www.audiothing.net/effects/space-strip/",
+    "docs": "",
+    "developer": "audiothing",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["multi-effect", "channel strip"]
+}

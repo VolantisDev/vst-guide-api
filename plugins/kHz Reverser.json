@@ -1,0 +1,10 @@
+{
+    "id": "kHz Reverser",
+    "name": "Reverser",
+    "url": "https://kilohearts.com/products/reverser",
+    "docs": "",
+    "developer": "kilohearts",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["reverser"]
+}

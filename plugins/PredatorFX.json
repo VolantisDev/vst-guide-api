@@ -1,0 +1,12 @@
+{
+    "id": "PredatorFX",
+    "name": "Predator FX",
+    "url": "https://www.robpapen.com/Predator2.html",
+    "docs": "",
+    "developer": "robpapen",
+    "parent": "Predator",
+    "suites": ["eXplorer4"],
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["multi-effect"]
+}

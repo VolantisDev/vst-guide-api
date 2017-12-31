@@ -1,0 +1,10 @@
+{
+    "id": "Battery 4",
+    "name": "Battery 4",
+    "url": "https://www.native-instruments.com/en/products/komplete/drums/battery-4/",
+    "docs": "",
+    "developer": "ni",
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["drums", "drum machine"]
+}

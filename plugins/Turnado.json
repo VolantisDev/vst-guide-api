@@ -1,0 +1,10 @@
+{
+    "id": "Turnado",
+    "name": "Turnado",
+    "url": "https://sugar-bytes.de/turnado",
+    "docs": "",
+    "developer": "sugarbytes",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["multi-effect", "delay", "pitch", "flanger", "phaser", "tone", "reverb", "ring modulator", "vocoder", "amp simulator", "looper", "pan", "slicer", "filter", "stutter"]
+}

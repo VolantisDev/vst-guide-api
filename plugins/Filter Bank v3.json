@@ -1,0 +1,10 @@
+{
+    "id": "Filter Bank V3",
+    "name": "Filter Bank V3",
+    "url": "https://www.pluginboutique.com/product/2-Effects/19-Filter/237-Filter-Bank-V3",
+    "docs": "",
+    "developer": "msg",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["filter"]
+}

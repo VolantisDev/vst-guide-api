@@ -1,0 +1,10 @@
+{
+    "id": "Podolski",
+    "name": "Podolski",
+    "url": "https://www.u-he.com/cms/podolski",
+    "docs": "",
+    "developer": "u-he",
+    "types": ["instrument"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["synth"]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "Spark",
+    "name": "Spark 2",
+    "url": "https://www.arturia.com/products/spark2/buy",
+    "docs": "",
+    "developer": "arturia",
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["drums", "drum-machine"]
+}

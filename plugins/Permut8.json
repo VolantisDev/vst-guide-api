@@ -1,0 +1,10 @@
+{
+    "id": "Permut8",
+    "name": "Permut8",
+    "url": "https://soniccharge.com/permut8",
+    "docs": "",
+    "developer": "soniccharge",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["multi-effect", "delay", "saturator", "limiter", "filter"]
+}

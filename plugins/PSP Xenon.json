@@ -1,0 +1,10 @@
+{
+    "id": "PSP Xenon",
+    "name": "Xenon",
+    "url": "http://www.pspaudioware.com/plugins/dynamic_processors/psp_xenon/",
+    "docs": "",
+    "developer": "psp",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["limiter"]
+}

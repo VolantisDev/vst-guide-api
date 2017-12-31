@@ -1,0 +1,10 @@
+{
+    "id": "elysia niveau filter",
+    "name": "Niveau Filter",
+    "url": "http://www.elysia.com/software/niveau-filter/",
+    "docs": "",
+    "developer": "Elysia",
+    "types": ["tool"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["filter"]
+}

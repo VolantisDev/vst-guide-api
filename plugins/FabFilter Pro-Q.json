@@ -1,0 +1,10 @@
+{
+    "id": "FabFilter Pro-Q",
+    "name": "Pro-Q",
+    "url": "https://www.fabfilter.com/products/pro-q-2-equalizer-plug-in",
+    "docs": "",
+    "developer": "fabfilter",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["equalizer"]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "Crystal",
+    "name": "Crystal",
+    "url": "http://www.greenoak.com/crystal/indexDesktop3.html",
+    "docs": "",
+    "developer": "greenoak",
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["synth"]
+}

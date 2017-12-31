@@ -1,0 +1,10 @@
+{
+    "id": "Alchemy",
+    "name": "Alchemy",
+    "url": "http://www.musicradar.com/news/tech/camel-audio-plugins-and-apps-no-longer-available-613289",
+    "docs": "",
+    "developer": "camelaudio",
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["synth"]
+}

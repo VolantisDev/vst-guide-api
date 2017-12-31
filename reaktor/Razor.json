@@ -1,0 +1,10 @@
+{
+    "id": "Razor",
+    "name": "Razor",
+    "url": "",
+    "docs": "",
+    "developer": "ni",
+    "sources": ["reaktor"],
+    "type": ["instrument"],
+    "tags": ["synth"]
+}

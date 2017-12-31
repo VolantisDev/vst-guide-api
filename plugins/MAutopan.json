@@ -1,0 +1,10 @@
+{
+    "id": "MAutopan",
+    "name": "MAutopan",
+    "url": "https://www.meldaproduction.com/MAutopan",
+    "docs": "",
+    "developer": "meldaproduction",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["pan"]
+}

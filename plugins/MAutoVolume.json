@@ -1,0 +1,10 @@
+{
+    "id": "MAutoVolume",
+    "name": "MAutoVolume",
+    "url": "https://www.meldaproduction.com/MAutoVolume",
+    "docs": "",
+    "developer": "meldaproduction",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["loudness", "gain"]
+}

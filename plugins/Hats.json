@@ -1,0 +1,10 @@
+{
+    "id": "Hats",
+    "name": "Hats",
+    "url": "https://www.audiothing.net/instruments/hats/",
+    "docs": "",
+    "developer": "audiothing",
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["percussion", "hi-hats", "cymbals"]
+}

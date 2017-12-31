@@ -1,0 +1,10 @@
+{
+    "id": "TAL-Filter",
+    "name": "TAL-Filter",
+    "url": "https://tal-software.com/products/tal-filter",
+    "docs": "",
+    "developer": "tal",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["filter"]
+}

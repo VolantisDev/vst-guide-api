@@ -1,0 +1,10 @@
+{
+    "id": "Replika XT",
+    "name": "Replika XT",
+    "url": "https://www.native-instruments.com/en/products/komplete/effects/replika-xt/",
+    "docs": "",
+    "developer": "ni",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["delay"]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "MReverb",
+    "name": "MReverb",
+    "url": "https://www.meldaproduction.com/MReverb",
+    "docs": "",
+    "developer": "meldaproduction",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["reverb"]
+}

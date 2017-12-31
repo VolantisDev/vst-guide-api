@@ -1,0 +1,10 @@
+{
+    "id": "Zebra2",
+    "name": "Zebra2",
+    "url": "https://www.u-he.com/cms/zebra",
+    "docs": "",
+    "developer": "u-he",
+    "types": ["instrument"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["synth"]
+}

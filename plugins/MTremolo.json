@@ -1,0 +1,10 @@
+{
+    "id": "MTremolo",
+    "name": "MTremolo",
+    "url": "https://www.meldaproduction.com/MTremolo",
+    "docs": "",
+    "developer": "meldaproduction",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["tremolo"]
+}

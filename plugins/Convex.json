@@ -1,0 +1,10 @@
+{
+    "id": "Convex",
+    "name": "Convex",
+    "url": "https://glitchmachines.com/products/convex/",
+    "docs": "",
+    "developer": "glitchmachines",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["multi-effect"]
+}

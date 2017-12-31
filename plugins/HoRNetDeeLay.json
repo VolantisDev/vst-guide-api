@@ -1,0 +1,10 @@
+{
+    "id": "HoRNetDeeLay",
+    "name": "DeeLay",
+    "url": "https://www.hornetplugins.com/plugins/hornet-deelay-plus/",
+    "docs": "",
+    "developer": "hornet",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["delay"]
+}

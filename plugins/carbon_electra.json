@@ -1,0 +1,10 @@
+{
+    "id": "carbon_electra",
+    "name": "Carbon Electra",
+    "url": "https://www.pluginboutique.com/products/1671",
+    "docs": "",
+    "developer": "pluginboutique",
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["synth"]
+}

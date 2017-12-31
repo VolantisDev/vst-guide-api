@@ -1,0 +1,9 @@
+{
+    "id": "Damage",
+    "name": "Damage",
+    "url": "",
+    "docs": "",
+    "developer": "ni",
+    "sources": ["kontakt-library"],
+    "tags": ["percussion"]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "Grind",
+    "name": "Grind",
+    "url": "https://www.audiodamage.com/products/ad035-grind",
+    "docs": "",
+    "developer": "audiodamage",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["distortion"]
+}

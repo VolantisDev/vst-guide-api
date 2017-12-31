@@ -1,0 +1,11 @@
+{
+    "id": "BG Kettle Gongs",
+    "name": "Balinese Gamelan - Kettle Gongs",
+    "url": "",
+    "docs": "",
+    "developer": "ni",
+    "parent": "OP Kettle Gongs",
+    "suites": ["Balinese Gamelan", "Komplete 10", "Komplete 11"],
+    "sources": ["kontakt-instrument"],
+    "tags": ["world"]
+}

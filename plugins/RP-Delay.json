@@ -1,0 +1,11 @@
+{
+    "id": "RP-Delay",
+    "name": "RP-Delay",
+    "url": "https://www.robpapen.com/rp-delay.html",
+    "docs": "",
+    "developer": "robpapen",
+    "suites": ["eXplorer4"],
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["delay"]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "FabFilter Volcano",
+    "name": "Volcano",
+    "url": "https://www.fabfilter.com/products/simplon-basic-filter-plug-in",
+    "docs": "",
+    "developer": "fabfilter",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["filter"]
+}

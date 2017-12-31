@@ -1,0 +1,10 @@
+{
+    "id": "Snap Heap",
+    "name": "Snap Heap",
+    "url": "https://kilohearts.com/products/snap_heap",
+    "docs": "",
+    "developer": "kilohearts",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["multi-effect", "chorus", "delay", "gain", "limiter", "distortion", "reverb", "reverser", "stereo", "tape stop", "gate", "transient"]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "Fluid",
+    "name": "Fluid",
+    "url": "https://www.audiodamage.com/collections/software/fluid",
+    "docs": "",
+    "developer": "audiodamage",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["chorus"]
+}

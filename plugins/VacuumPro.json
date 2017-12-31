@@ -1,0 +1,10 @@
+{
+    "id": "VacuumPro",
+    "name": "Vacuum Pro",
+    "url": "http://www.airmusictech.com/product/vacuum-pro",
+    "docs": "",
+    "developer": "airmusic",
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["synth"]
+}

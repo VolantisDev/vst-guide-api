@@ -1,0 +1,10 @@
+{
+    "id": "Monark",
+    "name": "Monark",
+    "url": "",
+    "docs": "",
+    "developer": "ni",
+    "sources": ["reaktor"],
+    "type": ["instrument"],
+    "tags": ["synth"]
+}

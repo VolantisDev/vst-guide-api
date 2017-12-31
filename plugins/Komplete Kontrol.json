@@ -1,0 +1,10 @@
+{
+    "id": "Komplete Kontrol",
+    "name": "Komplete Kontrol",
+    "url": "https://www.native-instruments.com/en/products/komplete/keyboards/komplete-kontrol-s49-s61/software-updates/",
+    "docs": "",
+    "developer": "ni",
+    "types": ["tool"],
+    "sources": ["vst2"],
+    "tags": ["plugin browser", "player"]
+}

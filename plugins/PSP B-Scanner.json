@@ -1,0 +1,10 @@
+{
+    "id": "PSP B-Scanner",
+    "name": "B-Scanner",
+    "url": "http://www.pspaudioware.com/plugins/multimode_effects/psp_b-scanner/",
+    "docs": "",
+    "developer": "psp",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["multi-effect", "tone", "vibrato", "chorus"]
+}

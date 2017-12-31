@@ -1,0 +1,10 @@
+{
+    "id": "bx_cleansweep V2",
+    "name": "bx_cleansweep V2",
+    "url": "http://www.brainworx-music.de/en/plugins/bx_cleansweep_v2",
+    "docs": "",
+    "developer": "brainworx",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["filter"]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "IVGI",
+    "name": "IVGI",
+    "url": "https://klanghelm.com/contents/products/IVGI/IVGI.php",
+    "docs": "",
+    "developer": "klanghelm",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["saturation", "distortion"]
+}

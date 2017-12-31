@@ -1,0 +1,10 @@
+{
+    "id": "UpStereo",
+    "name": "UpStereo",
+    "url": "http://www.quikquak.com/prod_upstereo.html",
+    "docs": "",
+    "developer": "quikquak",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["stereo"]
+}

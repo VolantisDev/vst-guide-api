@@ -1,0 +1,9 @@
+{
+    "id": "Kontakt Factory Library",
+    "name": "Kontakt Factory Library",
+    "url": "",
+    "docs": "",
+    "developer": "ni",
+    "sources": ["kontakt-library"],
+    "tags": ["multi-instrument", "percussion", "keys", "drums", "world", "synth"]
+}

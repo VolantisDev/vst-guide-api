@@ -1,0 +1,10 @@
+{
+    "id": "Dubstation",
+    "name": "Dubstation",
+    "url": "https://www.audiodamage.com/products/ad036-dubstation-2",
+    "docs": "",
+    "developer": "audiodamage",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["delay"]
+}

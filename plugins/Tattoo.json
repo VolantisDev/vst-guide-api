@@ -1,0 +1,10 @@
+{
+    "id": "Tattoo",
+    "name": "Tattoo",
+    "url": "https://www.audiodamage.com/",
+    "docs": "",
+    "developer": "audiodamage",
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["drums", "drum machine"]
+}

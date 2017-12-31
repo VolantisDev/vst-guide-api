@@ -1,0 +1,10 @@
+{
+    "id": "Delta Modulator",
+    "name": "Delta Modulator",
+    "url": "https://xferrecords.com/freeware/",
+    "docs": "",
+    "developer": "xfer",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["distortion", "bit crusher"]
+}

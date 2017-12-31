@@ -1,0 +1,11 @@
+{
+    "id": "Analogue EQ",
+    "name": "Analogue EQ",
+    "url": "https://www.pluginboutique.com/product/2-Effects/16-EQ/225-Analogue-Collection",
+    "docs": "",
+    "developer": "msg",
+    "suites": ["Analogue Collection"],
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["equalizer"]
+}

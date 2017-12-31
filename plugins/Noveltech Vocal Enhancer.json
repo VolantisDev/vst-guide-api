@@ -1,0 +1,10 @@
+{
+    "id": "Noveltech Vocal Enhancer",
+    "name": "Vocal Enhancer",
+    "url": "http://www.noveltechaudio.com/products/vocal-enhancer/",
+    "docs": "",
+    "developer": "noveltech",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["enhancer", "vocal"]
+}

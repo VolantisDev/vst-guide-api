@@ -1,0 +1,10 @@
+{
+    "id": "PPD Echobox",
+    "name": "PPD Echobox",
+    "url": "https://www.pluginboutique.com/products/278-PPD-Echobox",
+    "docs": "",
+    "developer": "msg",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["delay", "echo"]
+}

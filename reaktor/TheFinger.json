@@ -1,0 +1,10 @@
+{
+    "id": "TheFinger",
+    "name": "The Finger",
+    "url": "",
+    "docs": "",
+    "developer": "ni",
+    "sources": ["reaktor"],
+    "type": ["effect"],
+    "tags": ["multi-effect"]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "ADverb",
+    "name": "ADverb",
+    "url": "https://www.audiodamage.com/products/ad012-adverb",
+    "docs": "",
+    "developer": "audiodamage",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["reverb"]
+}

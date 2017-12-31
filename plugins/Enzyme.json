@@ -1,0 +1,10 @@
+{
+    "id": "Enzyme",
+    "name": "Enzyme",
+    "url": "http://www.humanoidsoundsystems.com/enzyme-vst-plugin-au-plugin-synth/",
+    "docs": "",
+    "developer": "humanoidsoundsystems",
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["synth"]
+}

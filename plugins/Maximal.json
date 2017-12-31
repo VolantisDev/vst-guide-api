@@ -1,0 +1,10 @@
+{
+    "id": "Maximal",
+    "name": "Maximal",
+    "url": "https://venomode.com/maximal",
+    "docs": "",
+    "developer": "venomode",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["loudness", "maximizer"]
+}

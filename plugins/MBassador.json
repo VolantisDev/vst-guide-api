@@ -1,0 +1,10 @@
+{
+    "id": "MBassador",
+    "name": "MBassador",
+    "url": "https://www.meldaproduction.com/MBassador",
+    "docs": "",
+    "developer": "meldaproduction",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["multi-effect", "bass"]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "Filterstation2",
+    "name": "Filterstation2",
+    "url": "https://www.audiodamage.com/products/ad043-filterstation2",
+    "docs": "",
+    "developer": "audiodamage",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["filter"]
+}

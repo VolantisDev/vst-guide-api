@@ -1,0 +1,10 @@
+{
+    "id": "Kontakt 5",
+    "name": "Kontakt 5",
+    "url": "https://www.native-instruments.com/en/products/komplete/samplers/kontakt-5/",
+    "docs": "",
+    "developer": "ni",
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["sampler", "multi-instrument"]
+}

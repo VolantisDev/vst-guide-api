@@ -1,0 +1,10 @@
+{
+    "id": "Eos 2",
+    "name": "Eos 2",
+    "url": "https://www.audiodamage.com/products/ad034-eos-2",
+    "docs": "",
+    "developer": "audiodamage",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["reverb"]
+}

@@ -1,0 +1,11 @@
+{
+    "id": "ProEQ",
+    "name": "Pro EQ",
+    "url": "http://www.pluginboutique.com/product/16-EQ/228-Pro-EQ",
+    "docs": "",
+    "developer": "msg",
+    "suites": ["Ultimate Mastering Bundle"],
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["equalizer"]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "Delay Studio KVR12",
+    "name": "Delay Studio KVR12",
+    "url": "http://vstmuseum.com/grid_vst_MSI/",
+    "docs": "",
+    "developer": "msg",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["delay"]
+}

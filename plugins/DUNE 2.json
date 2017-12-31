@@ -1,0 +1,10 @@
+{
+    "id": "DUNE 2",
+    "name": "DUNE 2",
+    "url": "http://www.synapse-audio.com/dune2.html",
+    "docs": "",
+    "developer": "synapse",
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["synth"]
+}

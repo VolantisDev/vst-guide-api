@@ -1,0 +1,11 @@
+{
+    "id": "RP-Distort",
+    "name": "RP-Distort",
+    "url": "https://www.robpapen.com/rp-distort.html",
+    "docs": "",
+    "developer": "robpapen",
+    "suites": ["eXplorer4"],
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["distortion"]
+}

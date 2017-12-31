@@ -1,0 +1,12 @@
+{
+    "id": "Neutron Equalizer",
+    "name": "Neutron Equalizer",
+    "url": "https://www.izotope.com/en/products/mix/neutron/features-and-comparison/equalizer.html",
+    "docs": "",
+    "developer": "izotope",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "parent": "iZNeutron",
+    "suites": ["Neutron Advanced"],
+    "tags": ["equalizer"]
+}

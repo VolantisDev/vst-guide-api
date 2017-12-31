@@ -1,0 +1,10 @@
+{
+    "id": "MRhythmizer",
+    "name": "MRhythmizer",
+    "url": "https://www.meldaproduction.com/MRhythmizer",
+    "docs": "",
+    "developer": "meldaproduction",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["gate", "filter", "loudness", "gain", "time"]
+}

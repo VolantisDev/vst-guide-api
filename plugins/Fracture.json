@@ -1,0 +1,10 @@
+{
+    "id": "Fracture",
+    "name": "Fracture",
+    "url": "https://glitchmachines.com/products/fracture/",
+    "docs": "",
+    "developer": "glitchmachines",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["multi-effect", "buffer"]
+}

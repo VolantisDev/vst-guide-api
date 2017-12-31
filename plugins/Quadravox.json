@@ -1,0 +1,10 @@
+{
+    "id": "Quadravox",
+    "name": "Quadravox",
+    "url": "https://www.eventideaudio.com/products/plugins/diatonic-pitch-shift/quadravox",
+    "docs": "",
+    "developer": "eventide",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["pitch", "multi-effect", "pan", "delay"]
+}

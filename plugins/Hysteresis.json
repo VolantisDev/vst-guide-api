@@ -1,0 +1,10 @@
+{
+    "id": "Hysteresis",
+    "name": "Hysteresis",
+    "url": "https://glitchmachines.com/products/hysteresis/",
+    "docs": "",
+    "developer": "glitchmachines",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["delay"]
+}

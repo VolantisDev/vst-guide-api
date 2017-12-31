@@ -1,0 +1,11 @@
+{
+    "id": "iZotope Insight",
+    "name": "Insight",
+    "url": "https://www.izotope.com/en/products/mix/insight.html",
+    "docs": "",
+    "developer": "izotope",
+    "types": ["tool"],
+    "sources": ["vst2", "vst3"],
+    "suites": ["Ozone Advanced"],
+    "tags": ["metering", "visualization"]
+}

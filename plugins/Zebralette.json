@@ -1,0 +1,11 @@
+{
+    "id": "Zebralette",
+    "name": "Zebralette",
+    "url": "https://www.u-he.com/cms/zebra",
+    "docs": "",
+    "developer": "u-he",
+    "parent": "Zebra2",
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["synth"]
+}

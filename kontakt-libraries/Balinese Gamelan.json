@@ -1,0 +1,9 @@
+{
+    "id": "Balinese Gamelan",
+    "name": "Balinese Gamelan",
+    "url": "",
+    "docs": "",
+    "developer": "ni",
+    "sources": ["kontakt-library"],
+    "tags": ["world", "gamelan"]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "FabFilter One",
+    "name": "One",
+    "url": "https://www.fabfilter.com/products/one-basic-synthesizer-plug-in",
+    "docs": "",
+    "developer": "fabfilter",
+    "types": ["instrument"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["synth"]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "FC70",
+    "name": "FC70",
+    "url": "https://www.overtonedsp.co.uk/download/download_fc70/",
+    "docs": "",
+    "developer": "overtone",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["limiter"]
+}

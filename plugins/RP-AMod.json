@@ -1,0 +1,11 @@
+{
+    "id": "RP-AMod",
+    "name": "RP-Amod",
+    "url": "https://www.robpapen.com/rp-amod.html",
+    "docs": "",
+    "developer": "robpapen",
+    "suites": ["eXplorer4"],
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["multi-effect", "modulator", "phaser", "flanger", "chorus", "ensemble", "tremolo"]
+}

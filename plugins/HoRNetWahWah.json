@@ -1,0 +1,10 @@
+{
+    "id": "HoRNetWahWah",
+    "name": "WahWah",
+    "url": "https://www.hornetplugins.com/plugins/hornet-wahwah/",
+    "docs": "",
+    "developer": "hornet",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["wah-wah"]
+}

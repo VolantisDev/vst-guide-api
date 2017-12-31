@@ -1,0 +1,10 @@
+{
+    "id": "TAL-U-NO-LX-V2",
+    "name": "TAL-U-NO-LX",
+    "url": "https://tal-software.com/products/tal-u-no-lx",
+    "docs": "",
+    "developer": "tal",
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["synth"]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "HalfTime",
+    "name": "HalfTime",
+    "url": "http://www.cableguys.com/halftime.html",
+    "docs": "",
+    "developer": "cableguys",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["multi-effect", "tempo"]
+}

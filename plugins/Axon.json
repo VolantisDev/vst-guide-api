@@ -1,0 +1,10 @@
+{
+    "id": "Axon",
+    "name": "Axon",
+    "url": "https://www.audiodamage.com/products/ad042-axon-2",
+    "docs": "",
+    "developer": "audiodamage",
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["drums"]
+}

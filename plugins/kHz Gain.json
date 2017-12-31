@@ -1,0 +1,10 @@
+{
+    "id": "kHz Gain",
+    "name": "Gain",
+    "url": "https://kilohearts.com/products/gain",
+    "docs": "",
+    "developer": "kilohearts",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["gain"]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "SsdSampler",
+    "name": "SSD Sampler",
+    "url": "http://stevenslatedrums.com/ssd4/",
+    "docs": "",
+    "developer": "stevenslatedrums",
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["drums"]
+}

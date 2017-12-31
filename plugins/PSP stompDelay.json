@@ -1,0 +1,10 @@
+{
+    "id": "PSP stompDelay",
+    "name": "stompDelay",
+    "url": "http://www.pspaudioware.com/plugins/delays/psp_stompdelay/",
+    "docs": "",
+    "developer": "psp",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["delay"]
+}

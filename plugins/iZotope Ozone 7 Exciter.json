@@ -1,0 +1,12 @@
+{
+    "id": "iZotope Ozone 7 Exciter",
+    "name": "Ozone 7 Exciter",
+    "url": "https://www.izotope.com/en/products/master-and-deliver/ozone/features-and-comparison/exciter.html",
+    "docs": "",
+    "developer": "izotope",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "parent": "iZotope Ozone 7",
+    "suites": ["Ozone 7 Advanced"],
+    "tags": ["exciter", "mastering"]
+}

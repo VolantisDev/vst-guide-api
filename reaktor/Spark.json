@@ -1,0 +1,10 @@
+{
+    "id": "Spark",
+    "name": "Spark",
+    "url": "",
+    "docs": "",
+    "developer": "ni",
+    "sources": ["reaktor"],
+    "type": ["instrument"],
+    "tags": ["synth"]
+}

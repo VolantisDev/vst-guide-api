@@ -1,0 +1,10 @@
+{
+    "id": "PSP McQ",
+    "name": "McQ",
+    "url": "http://www.pspaudioware.com/plugins/equalizers/psp_mcq/",
+    "docs": "",
+    "developer": "psp",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["equalizer"]
+}

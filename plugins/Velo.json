@@ -1,0 +1,10 @@
+{
+    "id": "Velo",
+    "name": "Velo",
+    "url": "https://www.soundspot.audio/downloads/velo-limiter-90-off/",
+    "docs": "",
+    "developer": "soundspot",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["limiter"]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "TAL-Dub-X",
+    "name": "TAL-Dub-X",
+    "url": "https://tal-software.com/products/tal-dub-x",
+    "docs": "",
+    "developer": "tal",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["delay"]
+}

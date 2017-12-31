@@ -1,0 +1,10 @@
+{
+    "id": "MRatio",
+    "name": "MRatio",
+    "url": "https://www.meldaproduction.com/MRatio",
+    "docs": "",
+    "developer": "meldaproduction",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["crossfade"]
+}

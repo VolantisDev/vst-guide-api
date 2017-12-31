@@ -1,0 +1,10 @@
+{
+    "id": "Automaton",
+    "name": "Automaton",
+    "url": "https://www.audiodamage.com/products/ad020-automaton",
+    "docs": "",
+    "developer": "audiodamage",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["buffer"]
+}

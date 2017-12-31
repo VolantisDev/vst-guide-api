@@ -1,0 +1,10 @@
+{
+    "id": "Kontour",
+    "name": "Kontour",
+    "url": "",
+    "docs": "",
+    "developer": "ni",
+    "sources": ["reaktor"],
+    "type": ["effect"],
+    "tags": ["multi-effect", "delay", "spectral", "equalizer", "chorus", "filter", "level", "flanger", "pitch", "stutter", "glitch", "modulation", "dynamics", "distortion", "reverb"]
+}

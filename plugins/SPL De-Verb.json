@@ -1,0 +1,10 @@
+{
+    "id": "SPL De-Verb",
+    "name": "De-Verb",
+    "url": "https://www.plugin-alliance.com/en/products/spl_de-verb_plus.html",
+    "docs": "",
+    "developer": "spl",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["de-verb"]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "MCompare",
+    "name": "MCompare",
+    "url": "https://www.meldaproduction.com/MCompare",
+    "docs": "",
+    "developer": "meldaproduction",
+    "types": ["tool"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["reference"]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "bx_stereomaker",
+    "name": "bx_stereomaker",
+    "url": "http://www.brainworx-music.de/en/plugins/bx_stereomaker",
+    "docs": "",
+    "developer": "brainworx",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["stereo", "mid-side"]
+}

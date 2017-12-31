@@ -1,0 +1,10 @@
+{
+    "id": "Syntorus",
+    "name": "Syntorus",
+    "url": "http://d16.pl/syntorus",
+    "docs": "",
+    "developer": "d16",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["chorus"]
+}

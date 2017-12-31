@@ -1,0 +1,9 @@
+{
+    "id": "Scarbee Rickenbacker Bass",
+    "name": "Scarbee Rickenbacker Bass",
+    "url": "",
+    "docs": "",
+    "developer": "ni",
+    "sources": ["kontakt-library"],
+    "tags": ["strings", "bass"]
+}

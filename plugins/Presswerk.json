@@ -1,0 +1,10 @@
+{
+    "id": "Presswerk",
+    "name": "Presswerk",
+    "url": "https://www.u-he.com/cms/presswerk",
+    "docs": "",
+    "developer": "u-he",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["dynamics", "compressor"]
+}

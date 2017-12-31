@@ -1,0 +1,10 @@
+{
+    "id": "SerumFX",
+    "name": "Serum FX",
+    "url": "https://www.xferrecords.com/products/serum",
+    "docs": "",
+    "developer": "xfer",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["multi-effect"]
+}

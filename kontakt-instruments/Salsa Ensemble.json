@@ -1,0 +1,10 @@
+{
+    "id": "Salsa Ensemble",
+    "name": "Cuba - Salsa Ensemble",
+    "url": "",
+    "docs": "",
+    "developer": "ni",
+    "suites": ["Cuba", "Komplete 10", "Komplete 11"],
+    "sources": ["kontakt-instrument"],
+    "tags": ["world", "percussion"]
+}

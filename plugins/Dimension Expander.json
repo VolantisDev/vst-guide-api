@@ -1,0 +1,10 @@
+{
+    "id": "Dimension Expander",
+    "name": "Dimension Expander",
+    "url": "https://xferrecords.com/freeware/",
+    "docs": "",
+    "developer": "xfer",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["chorus", "spatial"]
+}

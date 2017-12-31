@@ -1,0 +1,10 @@
+{
+    "id": "AR50s Autumn Kit",
+    "name": "Abbey Road 50s Drummer - Autumn Kit",
+    "url": "",
+    "docs": "",
+    "developer": "ni",
+    "suites": ["Abbey Road 50s Drummer", "Komplete 10", "Komplete 11"],
+    "sources": ["kontakt-instrument"],
+    "tags": ["drums", "percussion"]
+}

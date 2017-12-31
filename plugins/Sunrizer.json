@@ -1,0 +1,10 @@
+{
+    "id": "Sunrizer",
+    "name": "Sunrizer",
+    "url": "http://www.beepstreet.com/plugins/sunrizer",
+    "docs": "",
+    "developer": "beepstreet",
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["synth"]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "MCombMB",
+    "name": "MCombMB",
+    "url": "https://www.meldaproduction.com/MCombMB",
+    "docs": "",
+    "developer": "meldaproduction",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["filter", "multi-comb filter", "multi-band"]
+}

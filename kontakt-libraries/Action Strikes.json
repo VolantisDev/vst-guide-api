@@ -1,0 +1,9 @@
+{
+    "id": "Action Strikes",
+    "name": "Action Strikes",
+    "url": "",
+    "docs": "",
+    "developer": "ni",
+    "sources": ["kontakt-library"],
+    "tags": ["percussion"]
+}

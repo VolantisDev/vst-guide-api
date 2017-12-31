@@ -1,0 +1,10 @@
+{
+    "id": "RC 48",
+    "name": "RC 48",
+    "url": "https://www.native-instruments.com/en/products/komplete/effects/rc-48/",
+    "docs": "",
+    "developer": "ni",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["reverb"]
+}

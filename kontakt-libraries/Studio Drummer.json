@@ -1,0 +1,9 @@
+{
+    "id": "Studio Drummer",
+    "name": "Studio Drummer",
+    "url": "",
+    "docs": "",
+    "developer": "ni",
+    "sources": ["kontakt-library"],
+    "tags": ["drums", "percussion"]
+}

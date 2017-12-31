@@ -1,0 +1,10 @@
+{
+    "id": "Sigmund",
+    "name": "Sigmund",
+    "url": "http://d16.pl/sigmund",
+    "docs": "",
+    "developer": "d16",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["delay"]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "RapturePro",
+    "name": "Rapture Pro",
+    "url": "http://www.cakewalk.com/products/rapture",
+    "docs": "",
+    "developer": "cakewalk",
+    "types": ["instrument"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["synth"]
+}

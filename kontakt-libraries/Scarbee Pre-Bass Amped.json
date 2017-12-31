@@ -1,0 +1,9 @@
+{
+    "id": "Scarbee Pre-Bass Amped",
+    "name": "Scarbee Pre-Bass Amped",
+    "url": "",
+    "docs": "",
+    "developer": "ni",
+    "sources": ["kontakt-library"],
+    "tags": ["strings", "bass"]
+}

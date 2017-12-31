@@ -1,0 +1,11 @@
+{
+    "id": "Repro-1",
+    "name": "Repro-1",
+    "url": "https://www.u-he.com/cms/repro",
+    "docs": "",
+    "developer": "u-he",
+    "suite": "Repro",
+    "types": ["instrument"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["synth"]
+}

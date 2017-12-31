@@ -1,0 +1,11 @@
+{
+    "id": "Predator",
+    "name": "Predator",
+    "url": "https://www.robpapen.com/Predator2.html",
+    "docs": "",
+    "developer": "robpapen",
+    "suites": ["eXplorer4"],
+    "types": ["instrument"],
+    "sources": ["vst2"],
+    "tags": ["synth"]
+}

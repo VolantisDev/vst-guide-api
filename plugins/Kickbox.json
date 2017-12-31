@@ -1,0 +1,10 @@
+{
+    "id": "Kickbox",
+    "name": "KickBox",
+    "url": "https://www.soundspot.audio/downloads/kickbox/",
+    "docs": "",
+    "developer": "soundspot",
+    "types": ["instrument"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["drums", "kick"]
+}

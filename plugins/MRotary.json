@@ -1,0 +1,10 @@
+{
+    "id": "MRotary",
+    "name": "MRotary",
+    "url": "https://www.meldaproduction.com/MRotary",
+    "docs": "",
+    "developer": "meldaproduction",
+    "types": ["effect"],
+    "sources": ["vst2", "vst3"],
+    "tags": ["rotary"]
+}

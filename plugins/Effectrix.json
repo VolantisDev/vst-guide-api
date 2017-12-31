@@ -1,0 +1,10 @@
+{
+    "id": "Effectrix",
+    "name": "Effectrix",
+    "url": "https://sugar-bytes.de/effectrix",
+    "docs": "",
+    "developer": "sugarbytes",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["multi-effect", "sequencer"]
+}

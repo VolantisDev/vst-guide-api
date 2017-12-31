@@ -1,0 +1,10 @@
+{
+    "id": "LPEpic Organic",
+    "name": "Damage - Epic Organic",
+    "url": "",
+    "docs": "",
+    "developer": "ni",
+    "suites": ["Damage", "Komplete 10", "Komplete 11"],
+    "sources": ["kontakt-instrument"],
+    "tags": ["loops"]
+}

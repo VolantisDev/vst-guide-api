@@ -1,0 +1,10 @@
+{
+    "id": "Transient Master",
+    "name": "Transient Master",
+    "url": "https://www.native-instruments.com/en/products/komplete/effects/transient-master/",
+    "docs": "",
+    "developer": "ni",
+    "types": ["effect"],
+    "sources": ["vst2"],
+    "tags": ["transients"]
+}

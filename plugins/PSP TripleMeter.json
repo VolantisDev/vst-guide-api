@@ -1,0 +1,10 @@
+{
+    "id": "PSP TripleMeter",
+    "name": "TripleMeter",
+    "url": "http://www.pspaudioware.com/plugins/tools_and_meters/psp_triplemeter/",
+    "docs": "",
+    "developer": "psp",
+    "types": ["tool"],
+    "sources": ["vst2"],
+    "tags": ["analyzer", "meter", "vu meter"]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "reViSiT",
+    "name": "reViSiT",
+    "url": "https://revisit.info/",
+    "docs": "",
+    "developer": "chrisnash",
+    "types": ["tool"],
+    "sources": ["vst2"],
+    "tags": ["tracker"]
+}
